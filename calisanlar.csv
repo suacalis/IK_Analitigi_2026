@@ -1,0 +1,501 @@
+﻿calisan_id,ad_soyad,cinsiyet,yas,departman,pozisyon,deneyim_yil,egitim_seviyesi,maas,ise_giris_tarihi,performans_notu,sehir,email,telefon
+EMP0001,Ahmet Kurt,Erkek,50,Satış,Satış Müdürü,14,Ön Lisans,,2019-02-24,2.7,Ankara,ahmet.kurt@firma.com,05526517555
+EMP0002,Burak Taş,Erkek,40,IT,IT Müdürü,10,Lisans,96705.0,2024-02-11,3.7,Konya,burak.taş@firma.com,05418348156
+EMP0003,Berkay Arslan,Erkek,57,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,23,Lisans,117440.0,2020-05-31,3.6,Adana,berkay.arslan@firma.com,05354873725
+EMP0004,Burcu Koç,Kadın,51,IT,DevOps Mühendisi,5,Lisans,49477.0,2022-03-31,3.4,Ankara,burcu.koç@firma.com,05596374558
+EMP0005,Pınar Kılıç,Kadın,54,İnsan Kaynakları,İK Uzmanı,11,Yüksek Lisans,61689.0,2021-03-31,3.5,Ankara,pınar.kılıç@firma.com,05424978655
+EMP0006,Seda Güneş,Kadın,49,Finans,Finans Analisti,27,Lisans,87505.0,2020-12-29,3.2,Ankara,seda.güneş@firma.com,05391879360
+EMP0007,Ece Kurt,Kadın,24,Satış,Bölge Müdürü,0,Lisans,54362.0,2018-08-18,3.1,Bursa,ece.kurt@firma.com,05317233684
+EMP0008,İbrahim Deniz,Erkek,41,Operasyon,Operasyon Uzmanı,14,Yüksek Lisans,75105.0,2022-06-09,3.3,Gaziantep,i̇brahim.deniz@firma.com,05376703600
+EMP0009,Derya Güzel,Kadın,29,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,6,Lisans,37343.0,2020-06-17,3.9,İzmir,derya.güzel@firma.com,05573549845
+EMP0010,Hüseyin Arslan,Erkek,27,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,5,Lise,40373.0,2022-04-13,3.0,Gaziantep,hüseyin.arslan@firma.com,05584066101
+EMP0011,Onur Öztürk,Erkek,50,Pazarlama,Marka Müdürü,17,Ön Lisans,,2022-11-16,4.0,İzmir,onur.öztürk@firma.com,05543591060
+EMP0012,İrem Doğan,Kadın,29,İnsan Kaynakları,İşe Alım Uzmanı,5,Yüksek Lisans,44890.0,2023-09-11,3.6,Bursa,i̇rem.doğan@firma.com,05382054959
+EMP0013,Serkan Erdoğan,Erkek,42,Ar-Ge,Araştırma Uzmanı,15,Ön Lisans,75561.0,2022-01-26,5.0,Antalya,serkan.erdoğan@firma.com,05428554982
+EMP0014,Mustafa Çakır,Erkek,46,İnsan Kaynakları,İK Müdürü,12,Ön Lisans,82144.0,2023-05-01,4.2,İzmir,mustafa.çakır@firma.com,05442301192
+EMP0015,Okan Bayram,Erkek,36,Satış,Bölge Müdürü,12,Lisans,85086.0,2022-03-10,3.9,Gaziantep,okan.bayram@firma.com,05577871414
+EMP0016,Emre Kaya,Erkek,56,Satış,Satış Müdürü,34,Lise,167626.0,2018-08-30,4.1,Bursa,emre.kaya@firma.com,05336185272
+EMP0017,Burak Kara,Erkek,26,Pazarlama,Pazarlama Müdürü,1,Lisans,56844.0,2019-06-26,2.4,Gaziantep,burak.kara@firma.com,05430458149
+EMP0018,Ali Yıldırım,Erkek,44,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,4,Lisans,59617.0,2023-03-28,4.3,İstanbul,ali.yıldırım@firma.com,05352837693
+EMP0019,Ömer Kılıç,Erkek,43,Satış,Satış Danışmanı,2,Ön Lisans,41766.0,2020-01-22,3.8,Antalya,ömer.kılıç@firma.com,05548371554
+EMP0020,Gamze Özer,Kadın,22,İnsan Kaynakları,İK Uzmanı,0,Lisans,34317.0,2024-01-24,3.0,İstanbul,gamze.özer@firma.com,05350070070
+EMP0021,Eren Çakır,Erkek,35,Ar-Ge,Araştırma Uzmanı,6,Yüksek Lisans,,2018-08-29,3.1,İzmir,eren.çakır@firma.com,05503459644
+EMP0022,Selin Bulut,Kadın,34,Ar-Ge,Araştırma Uzmanı,2,Ön Lisans,40476.0,2020-06-10,3.7,İstanbul,selin.bulut@firma.com,05591088834
+EMP0023,Oğuz Avcı,Erkek,53,Finans,Mali Müşavir,3,Doktora,62187.0,2018-11-25,3.1,İzmir,oğuz.avcı@firma.com,05336787109
+EMP0024,Cem Öztürk,Erkek,50,Satış,Satış Temsilcisi,3,Yüksek Lisans,55081.0,2022-09-14,2.5,Adana,cem.öztürk@firma.com,05439997516
+EMP0025,Yusuf Karaca,Erkek,28,Finans,Finans Analisti,2,Lisans,45714.0,2018-10-25,3.7,İstanbul,yusuf.karaca@firma.com,05546040164
+EMP0026,Mustafa Bayram,Erkek,27,Satış,Bölge Müdürü,3,Ön Lisans,70008.0,2021-11-30,4.1,Ankara,mustafa.bayram@firma.com,05431149196
+EMP0027,Burcu Uçar,Kadın,41,IT,IT Müdürü,10,Lisans,87466.0,2019-03-01,4.0,İzmir,burcu.uçar@firma.com,05441984061
+EMP0028,Yusuf Özkan,Erkek,22,Satış,Bölge Müdürü,0,Ön Lisans,53898.0,2020-12-17,3.3,Gaziantep,yusuf.özkan@firma.com,05434819694
+EMP0029,Kemal Bulut,Erkek,34,Pazarlama,Pazarlama Uzmanı,8,Lise,50930.0,2019-06-20,3.6,Antalya,kemal.bulut@firma.com,05386748663
+EMP0030,Aslı Yılmaz,Kadın,58,İnsan Kaynakları,İK Uzmanı,32,Doktora,108281.0,2019-09-03,2.6,İstanbul,aslı.yılmaz@firma.com,05498221323
+EMP0031,Mehmet Şimşek,Erkek,36,Operasyon,Operasyon Uzmanı,10,Yüksek Lisans,61013.0,2020-05-10,4.8,Bursa,mehmet.şimşek@firma.com,05355186904
+EMP0032,Burcu Özdemir,Kadın,33,Satış,Satış Müdürü,6,Doktora,88457.0,2019-12-27,3.6,Konya,burcu.özdemir@firma.com,05313307079
+EMP0033,Gamze Kara,Kadın,38,Pazarlama,Dijital Pazarlama Uzmanı,16,Yüksek Lisans,82817.0,2019-03-19,3.4,Konya,gamze.kara@firma.com,05320790113
+EMP0034,Defne Şimşek,Kadın,22,Satış,Satış Müdürü,0,Lise,50334.0,2020-03-02,3.3,Konya,defne.şimşek@firma.com,05476234293
+EMP0035,Defne Tunç,Kadın,47,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,5,Doktora,46176.0,2024-01-06,3.0,Adana,defne.tunç@firma.com,05314817926
+EMP0036,Oğuz Koç,Erkek,59,IT,Yazılım Geliştirici,23,Yüksek Lisans,104028.0,2021-11-16,4.0,Adana,oğuz.koç@firma.com,05534287182
+EMP0037,Nil Deniz,Kadın,55,Satış,Bölge Müdürü,5,Lise,69507.0,2022-11-22,3.2,İstanbul,nil.deniz@firma.com,05579130110
+EMP0038,Can Bulut,Erkek,27,İnsan Kaynakları,İşe Alım Uzmanı,4,Lisans,46081.0,2019-05-26,3.8,Antalya,can.bulut@firma.com,05572259323
+EMP0039,Tuğba Özkan,Kadın,57,Finans,Muhasebeci,18,Lisans,78001.0,2022-04-02,3.0,İzmir,tuğba.özkan@firma.com,05461571235
+EMP0040,Selin Aslan,Kadın,54,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,17,Yüksek Lisans,76532.0,2021-08-12,3.3,Gaziantep,selin.aslan@firma.com,05537182060
+EMP0041,Gamze Arslan,Kadın,46,İnsan Kaynakları,İşe Alım Uzmanı,17,Lisans,74125.0,2024-12-11,4.1,Adana,gamze.arslan@firma.com,05350136869
+EMP0042,Büşra Kılıç,Kadın,47,Finans,Mali Müşavir,15,Lise,68108.0,2023-05-01,2.6,Ankara,büşra.kılıç@firma.com,05544499692
+EMP0043,Tolga Türk,Erkek,23,Ar-Ge,Ürün Geliştirme Uzmanı,0,Ön Lisans,38582.0,2018-01-23,2.5,Ankara,tolga.türk@firma.com,05528248626
+EMP0044,Ayşe Özer,Kadın,56,Satış,Satış Temsilcisi,18,Lisans,76707.0,2023-03-19,4.3,Adana,ayşe.özer@firma.com,05537604798
+EMP0045,Hande Özer,Kadın,45,Ar-Ge,Araştırma Uzmanı,21,Yüksek Lisans,99085.0,2023-04-29,3.7,Gaziantep,hande.özer@firma.com,05439152403
+EMP0046,Ebru Uçar,Kadın,56,Ar-Ge,Ar-Ge Müdürü,24,Lisans,128317.0,2022-12-07,4.1,Ankara,ebru.uçar@firma.com,05453399134
+EMP0047,Hüseyin Özdemir,Erkek,39,Satış,Satış Danışmanı,1,Yüksek Lisans,47765.0,2020-05-26,2.7,Ankara,hüseyin.özdemir@firma.com,05522730506
+EMP0048,Ayşe Aslan,Kadın,54,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,3,Doktora,60500.0,2024-07-20,4.0,İstanbul,ayşe.aslan@firma.com,05504215510
+EMP0049,Ebru Türk,Kadın,41,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,7,Yüksek Lisans,52651.0,2024-02-15,2.9,Bursa,ebru.türk@firma.com,05562116207
+EMP0050,Cem Polat,Erkek,43,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,21,Lisans,,2023-03-30,3.6,İzmir,cem.polat@firma.com,05586755443
+EMP0051,Mustafa Bulut,Erkek,59,Finans,Finans Müdürü,35,Lisans,161472.0,2020-12-01,3.7,Konya,mustafa.bulut@firma.com,05475746125
+EMP0052,Esra Akın,Kadın,55,Pazarlama,Pazarlama Uzmanı,20,Lisans,74432.0,2024-01-19,4.1,İstanbul,esra.akın@firma.com,05487883528
+EMP0053,Berkay Kaya,Erkek,54,Satış,Satış Müdürü,4,Yüksek Lisans,75068.0,2024-12-19,5.0,İzmir,berkay.kaya@firma.com,05428067840
+EMP0054,Barış Koç,Erkek,38,Operasyon,Operasyon Uzmanı,11,Yüksek Lisans,71324.0,2019-04-15,,İzmir,barış.koç@firma.com,05466987748
+EMP0055,Pınar Türk,Kadın,50,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,13,Lisans,57590.0,2024-08-22,3.8,Bursa,pınar.türk@firma.com,05354707845
+EMP0056,Efe Deniz,Erkek,56,IT,Veri Analisti,32,Lisans,99742.0,2022-02-26,,Ankara,efe.deniz@firma.com,05571635630
+EMP0057,Hande Çakır,Kadın,42,İnsan Kaynakları,Eğitim Koordinatörü,0,Doktora,39347.0,2023-02-27,4.0,İzmir,hande.çakır@firma.com,05533800381
+EMP0058,Burcu Bayram,Kadın,24,Ar-Ge,Ürün Geliştirme Uzmanı,1,Lisans,39209.0,2024-08-23,3.6,Antalya,burcu.bayram@firma.com,05473035952
+EMP0059,Yusuf Korkmaz,Erkek,43,Satış,Satış Danışmanı,1,Yüksek Lisans,43738.0,2022-04-02,2.8,Adana,yusuf.korkmaz@firma.com,05315408192
+EMP0060,Merve Aksoy,Kadın,54,Pazarlama,Marka Müdürü,8,Lisans,,2024-09-07,2.7,Antalya,merve.aksoy@firma.com,05598388036
+EMP0061,Ömer Akın,Erkek,50,Ar-Ge,Ar-Ge Müdürü,9,Yüksek Lisans,109903.0,2023-05-05,3.7,Gaziantep,ömer.akın@firma.com,05540611877
+EMP0062,Cem Kara,Erkek,34,Pazarlama,Marka Müdürü,11,Lisans,88700.0,2023-12-15,3.7,Adana,cem.kara@firma.com,05528440619
+EMP0063,Tuğba Aktaş,Kadın,57,Pazarlama,Marka Müdürü,19,Lisans,113111.0,2019-05-10,3.7,Bursa,tuğba.aktaş@firma.com,05469408512
+EMP0064,İbrahim Aslan,Erkek,44,Ar-Ge,Ürün Geliştirme Uzmanı,14,Yüksek Lisans,78496.0,2023-11-19,3.6,Antalya,i̇brahim.aslan@firma.com,05353969543
+EMP0065,Elif Şimşek,Kadın,23,IT,IT Müdürü,1,Lise,66080.0,2018-07-06,5.0,İstanbul,elif.şimşek@firma.com,05597082332
+EMP0066,Hatice Yılmaz,Kadın,43,Pazarlama,Pazarlama Müdürü,21,Lisans,103923.0,2021-10-27,2.2,İzmir,hatice.yılmaz@firma.com,05327582667
+EMP0067,Tunç Çelik,Erkek,36,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,5,Lise,60444.0,2018-08-08,4.2,İzmir,tunç.çelik@firma.com,05380099841
+EMP0068,Ömer Öztürk,Erkek,26,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,3,Lisans,38462.0,2024-12-08,3.1,Bursa,ömer.öztürk@firma.com,05580553993
+EMP0069,Melis Güzel,Kadın,53,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,19,Yüksek Lisans,112450.0,2018-09-04,3.4,Ankara,melis.güzel@firma.com,05411555281
+EMP0070,Hasan Kara,Erkek,40,Finans,Mali Müşavir,4,Lisans,44969.0,2022-08-01,3.2,Gaziantep,hasan.kara@firma.com,05552282341
+EMP0071,Tuğba Aktaş,Kadın,44,İnsan Kaynakları,İK Müdürü,8,Doktora,91753.0,2024-08-12,3.4,Bursa,tuğba.aktaş@firma.com,05528244747
+EMP0072,Okan Kurt,Erkek,53,Finans,Mali Müşavir,29,Lise,90039.0,2021-06-13,4.1,Antalya,okan.kurt@firma.com,05535768714
+EMP0073,Esra Tunç,Kadın,46,Ar-Ge,Ürün Geliştirme Uzmanı,7,Lise,59105.0,2018-06-13,,Konya,esra.tunç@firma.com,05473045080
+EMP0074,Onur Deniz,Erkek,26,IT,Veri Analisti,4,Lisans,52147.0,2019-12-19,3.7,Gaziantep,onur.deniz@firma.com,05578616589
+EMP0075,Oğuz Bulut,Erkek,33,Ar-Ge,Araştırma Uzmanı,9,Lisans,58271.0,2022-07-31,3.3,Adana,oğuz.bulut@firma.com,05472366839
+EMP0076,Gizem Çakır,Kadın,47,Pazarlama,Pazarlama Müdürü,25,Yüksek Lisans,143512.0,2024-03-03,4.8,İstanbul,gizem.çakır@firma.com,05544182802
+EMP0077,Berkay Karaca,Erkek,54,IT,IT Müdürü,29,Lisans,159128.0,2018-08-11,3.3,Bursa,berkay.karaca@firma.com,05578335031
+EMP0078,Ebru Şahin,Kadın,31,Satış,Bölge Müdürü,9,Lisans,87637.0,2021-03-25,3.9,Gaziantep,ebru.şahin@firma.com,05560227665
+EMP0079,Tolga Arslan,Erkek,26,Pazarlama,Pazarlama Uzmanı,4,Lisans,41966.0,2019-01-17,3.6,Bursa,tolga.arslan@firma.com,05360913975
+EMP0080,Kaan Özkan,Erkek,49,Pazarlama,Pazarlama Müdürü,26,Yüksek Lisans,162765.0,2023-04-19,3.1,Bursa,kaan.özkan@firma.com,05545235368
+EMP0081,Alp Çelik,Erkek,33,Pazarlama,Pazarlama Müdürü,1,Lisans,59358.0,2023-09-11,3.7,Antalya,alp.çelik@firma.com,05301377213
+EMP0082,Melis Özdemir,Kadın,58,Ar-Ge,Ar-Ge Müdürü,11,Lisans,93521.0,2021-09-23,3.3,Konya,melis.özdemir@firma.com,05544461278
+EMP0083,Oğuz Türk,Erkek,31,Satış,Satış Danışmanı,1,Lise,36311.0,2023-04-22,2.4,Konya,oğuz.türk@firma.com,05507274450
+EMP0084,Kaan Demir,Erkek,47,Finans,Finans Analisti,7,Yüksek Lisans,60676.0,2022-12-09,,Ankara,kaan.demir@firma.com,05582367836
+EMP0085,Eren Özdemir,Erkek,31,İnsan Kaynakları,Eğitim Koordinatörü,9,Yüksek Lisans,59007.0,2020-12-21,3.5,Adana,eren.özdemir@firma.com,05513397234
+EMP0086,Naz Çakır,Kadın,32,IT,IT Müdürü,7,Lise,91203.0,2021-03-23,2.3,Bursa,naz.çakır@firma.com,05348522035
+EMP0087,Barış Arslan,Erkek,57,Pazarlama,Pazarlama Uzmanı,9,Lise,54158.0,2018-08-18,4.8,Antalya,barış.arslan@firma.com,05492448542
+EMP0088,Pınar Doğan,Kadın,56,Finans,Muhasebeci,17,Lise,67940.0,2022-04-16,4.7,Bursa,pınar.doğan@firma.com,05567183069
+EMP0089,Seda Koç,Kadın,44,Ar-Ge,Ürün Geliştirme Uzmanı,4,Yüksek Lisans,53097.0,2023-03-21,2.9,Antalya,seda.koç@firma.com,05593452642
+EMP0090,Pınar Şimşek,Kadın,51,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,16,Lisans,59910.0,2021-05-22,4.1,Bursa,pınar.şimşek@firma.com,05506530612
+EMP0091,Pınar Aksoy,Kadın,46,Pazarlama,Marka Müdürü,21,Lise,105516.0,2022-06-10,3.2,Antalya,pınar.aksoy@firma.com,05304347562
+EMP0092,Okan Taş,Erkek,49,Ar-Ge,Ürün Geliştirme Uzmanı,13,Yüksek Lisans,80964.0,2020-07-31,4.2,Adana,okan.taş@firma.com,05417577164
+EMP0093,Kemal Yıldırım,Erkek,40,IT,Veri Analisti,14,Yüksek Lisans,76953.0,2018-05-17,3.6,Adana,kemal.yıldırım@firma.com,05370551177
+EMP0094,Elif Kılıç,Kadın,42,Finans,Finans Analisti,3,Lisans,49227.0,2021-01-21,2.9,İzmir,elif.kılıç@firma.com,05437959761
+EMP0095,Derya Polat,Kadın,35,İnsan Kaynakları,Eğitim Koordinatörü,9,Doktora,64886.0,2019-07-31,2.9,Bursa,derya.polat@firma.com,05513358670
+EMP0096,Emine Karaca,Kadın,33,IT,Veri Analisti,8,Lisans,62229.0,2023-02-06,3.3,Adana,emine.karaca@firma.com,05440746835
+EMP0097,Hatice Çetin,Kadın,59,Ar-Ge,Araştırma Uzmanı,6,Yüksek Lisans,57376.0,2024-04-18,4.1,Adana,hatice.çetin@firma.com,05418845609
+EMP0098,Özge Şimşek,Kadın,23,Müşteri Hizmetleri,Müşteri Temsilcisi,0,Lise,28233.0,2018-06-02,3.3,Antalya,özge.şimşek@firma.com,05564475828
+EMP0099,Cem Aktaş,Erkek,29,Operasyon,Süreç Yöneticisi,7,Yüksek Lisans,60442.0,2024-01-22,3.3,Konya,cem.aktaş@firma.com,05382958849
+EMP0100,Burcu Akın,Kadın,28,Pazarlama,Pazarlama Uzmanı,0,Lisans,35720.0,2020-06-08,3.8,Gaziantep,burcu.akın@firma.com,05538744268
+EMP0101,Onur Güneş,Erkek,52,Operasyon,Operasyon Uzmanı,18,Lisans,74935.0,2020-02-17,2.1,Ankara,onur.güneş@firma.com,05544124531
+EMP0102,Mehmet Polat,Erkek,47,Satış,Satış Müdürü,18,Yüksek Lisans,117723.0,2020-04-20,4.6,Ankara,mehmet.polat@firma.com,05597538040
+EMP0103,Emre Özdemir,Erkek,24,IT,Veri Analisti,0,Lisans,40602.0,2019-08-16,3.0,İzmir,emre.özdemir@firma.com,05590025967
+EMP0104,Hüseyin Yılmaz,Erkek,49,Operasyon,Operasyon Uzmanı,7,Yüksek Lisans,52039.0,2018-03-06,3.5,İzmir,hüseyin.yılmaz@firma.com,05442468098
+EMP0105,Arda Çelik,Erkek,22,Ar-Ge,Ürün Geliştirme Uzmanı,0,Lisans,43520.0,2023-10-04,3.1,Ankara,arda.çelik@firma.com,05542668563
+EMP0106,Arda Uçar,Erkek,46,Pazarlama,Pazarlama Müdürü,23,Yüksek Lisans,143987.0,2018-05-08,2.5,İstanbul,arda.uçar@firma.com,05557151453
+EMP0107,Kaan Korkmaz,Erkek,27,İnsan Kaynakları,İK Uzmanı,1,Lisans,33389.0,2019-08-31,3.5,Ankara,kaan.korkmaz@firma.com,05367748593
+EMP0108,Ece Taş,Kadın,32,Pazarlama,Pazarlama Müdürü,4,Lisans,62601.0,2022-10-29,4.2,Ankara,ece.taş@firma.com,05361425584
+EMP0109,Eren Korkmaz,Erkek,39,Satış,Satış Danışmanı,14,Lisans,67708.0,2023-02-01,3.2,Konya,eren.korkmaz@firma.com,05523332742
+EMP0110,Şebnem Koç,Kadın,24,Operasyon,Operasyon Uzmanı,2,Lisans,33414.0,2023-04-27,4.8,Ankara,şebnem.koç@firma.com,05348975933
+EMP0111,Arda Güneş,Erkek,53,Finans,Mali Müşavir,15,Yüksek Lisans,86783.0,2024-04-19,5.0,Adana,arda.güneş@firma.com,05365622420
+EMP0112,Melis Şahin,Kadın,29,Pazarlama,Marka Müdürü,1,Lisans,52497.0,2024-06-25,2.9,Bursa,melis.şahin@firma.com,05383070129
+EMP0113,Can Özer,Erkek,49,Operasyon,Operasyon Uzmanı,27,Yüksek Lisans,99491.0,2024-06-09,3.3,Bursa,can.özer@firma.com,05530377969
+EMP0114,Serkan Kurt,Erkek,38,IT,Sistem Yöneticisi,8,Lisans,,2021-06-19,2.3,Adana,serkan.kurt@firma.com,05488454266
+EMP0115,Emine Özdemir,Kadın,41,IT,Yazılım Geliştirici,12,Yüksek Lisans,76768.0,2020-05-31,2.6,Konya,emine.özdemir@firma.com,05525395852
+EMP0116,Derya Erdoğan,Kadın,51,İnsan Kaynakları,İK Uzmanı,17,Lisans,65053.0,2024-12-05,4.8,İstanbul,derya.erdoğan@firma.com,05343798748
+EMP0117,Burcu Korkmaz,Kadın,54,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,0,Lisans,44770.0,2023-09-30,4.5,Ankara,burcu.korkmaz@firma.com,05485313264
+EMP0118,İrem Şimşek,Kadın,46,IT,Sistem Yöneticisi,21,Lisans,89530.0,2024-09-20,3.0,İstanbul,i̇rem.şimşek@firma.com,05304126973
+EMP0119,Berkay Koç,Erkek,54,Pazarlama,Marka Müdürü,0,Ön Lisans,50101.0,2023-07-31,3.7,Konya,berkay.koç@firma.com,05394325430
+EMP0120,Burak Özer,Erkek,26,Operasyon,Operasyon Uzmanı,4,Lisans,47271.0,2018-06-23,3.2,Konya,burak.özer@firma.com,05310061787
+EMP0121,Pınar Bulut,Kadın,44,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,4,Yüksek Lisans,,2021-03-31,2.6,Ankara,pınar.bulut@firma.com,05517450064
+EMP0122,Hande Güneş,Kadın,30,İnsan Kaynakları,Eğitim Koordinatörü,0,Yüksek Lisans,42521.0,2020-09-23,3.1,Konya,hande.güneş@firma.com,05514989856
+EMP0123,Derya Polat,Kadın,22,Satış,Bölge Müdürü,0,Lisans,57155.0,2018-11-09,2.9,Ankara,derya.polat@firma.com,05584866295
+EMP0124,Defne Özdemir,Kadın,47,Satış,Satış Temsilcisi,25,Ön Lisans,86747.0,2020-03-19,3.3,İzmir,defne.özdemir@firma.com,05382071341
+EMP0125,Berkay Çakır,Erkek,33,Ar-Ge,Ar-Ge Müdürü,0,Yüksek Lisans,73202.0,2023-01-13,4.2,Adana,berkay.çakır@firma.com,05469725778
+EMP0126,Seda Şimşek,Kadın,38,Pazarlama,Pazarlama Uzmanı,15,Lisans,63638.0,2018-10-31,3.6,Antalya,seda.şimşek@firma.com,05547896109
+EMP0127,Emine Yıldız,Kadın,58,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,20,Yüksek Lisans,122179.0,2018-06-18,3.7,Gaziantep,emine.yıldız@firma.com,05401060294
+EMP0128,Mehmet Korkmaz,Erkek,55,İnsan Kaynakları,İşe Alım Uzmanı,33,Doktora,129700.0,2018-12-12,4.1,İzmir,mehmet.korkmaz@firma.com,05321014270
+EMP0129,İrem Uçar,Kadın,36,Finans,Finans Analisti,10,Lisans,53886.0,2021-03-04,2.1,Konya,i̇rem.uçar@firma.com,05519456397
+EMP0130,Efe Polat,Erkek,36,İnsan Kaynakları,İşe Alım Uzmanı,11,Lise,54696.0,2022-05-03,4.9,Antalya,efe.polat@firma.com,05435289207
+EMP0131,Emre Yıldız,Erkek,38,Finans,Finans Analisti,4,Lisans,50846.0,2022-05-25,4.3,İzmir,emre.yıldız@firma.com,05345483174
+EMP0132,Hande Aydın,Kadın,38,İnsan Kaynakları,Eğitim Koordinatörü,4,Lisans,45215.0,2018-03-16,3.4,Adana,hande.aydın@firma.com,05465821211
+EMP0133,Merve Çetin,Kadın,34,Finans,Muhasebeci,10,Lise,57744.0,2019-02-19,2.0,İstanbul,merve.çetin@firma.com,05480798994
+EMP0134,Zeynep Arslan,Kadın,37,Finans,Muhasebeci,14,Yüksek Lisans,74786.0,2018-06-28,4.9,Konya,zeynep.arslan@firma.com,05495581757
+EMP0135,Burcu Özkan,Kadın,25,Ar-Ge,Araştırma Uzmanı,3,Lisans,47538.0,2021-06-21,3.5,Gaziantep,burcu.özkan@firma.com,05404161642
+EMP0136,Ceren Özkan,Kadın,53,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,17,Lisans,61249.0,2019-10-26,4.3,Bursa,ceren.özkan@firma.com,05374302145
+EMP0137,Melis Güneş,Kadın,42,İnsan Kaynakları,İK Uzmanı,4,Lisans,39492.0,2019-10-19,3.5,Antalya,melis.güneş@firma.com,05541226417
+EMP0138,Emine Çetin,Kadın,26,Ar-Ge,Ürün Geliştirme Uzmanı,0,Yüksek Lisans,46511.0,2022-08-27,3.2,İstanbul,emine.çetin@firma.com,05512844601
+EMP0139,Can Çetin,Erkek,35,IT,Veri Analisti,9,Doktora,,2021-10-05,3.0,İzmir,can.çetin@firma.com,05373873219
+EMP0140,Tuğba Aydın,Kadın,51,Ar-Ge,Ürün Geliştirme Uzmanı,10,Yüksek Lisans,71494.0,2018-11-21,3.6,İstanbul,tuğba.aydın@firma.com,05437398112
+EMP0141,Hatice Özkan,Kadın,47,Satış,Bölge Müdürü,3,Ön Lisans,68630.0,2020-09-03,3.1,Konya,hatice.özkan@firma.com,05545411006
+EMP0142,Burcu Bayram,Kadın,43,IT,IT Müdürü,13,Yüksek Lisans,,2019-08-12,3.1,Antalya,burcu.bayram@firma.com,05530445876
+EMP0143,Elif Yıldız,Kadın,45,Operasyon,Operasyon Uzmanı,1,Doktora,44798.0,2024-02-07,4.1,İstanbul,elif.yıldız@firma.com,05509623251
+EMP0144,Defne Koç,Kadın,44,IT,Veri Analisti,13,Yüksek Lisans,79076.0,2021-11-13,2.8,Bursa,defne.koç@firma.com,05355654115
+EMP0145,Zeynep Demir,Kadın,39,Operasyon,Süreç Yöneticisi,5,Lisans,42548.0,2019-12-19,3.0,Gaziantep,zeynep.demir@firma.com,05556909467
+EMP0146,Tolga Aktaş,Erkek,31,IT,Veri Analisti,6,Lisans,54971.0,2020-03-28,2.5,İstanbul,tolga.aktaş@firma.com,05469434213
+EMP0147,Esra Demir,Kadın,43,Satış,Bölge Müdürü,11,Lisans,80718.0,2018-07-15,2.0,Adana,esra.demir@firma.com,05446682051
+EMP0148,Derya Korkmaz,Kadın,39,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,14,Doktora,108252.0,2023-07-26,3.2,Gaziantep,derya.korkmaz@firma.com,05497217877
+EMP0149,Arda Bulut,Erkek,29,İnsan Kaynakları,Eğitim Koordinatörü,7,Lisans,48330.0,2020-01-10,3.2,Antalya,arda.bulut@firma.com,05472449074
+EMP0150,Selin Korkmaz,Kadın,27,Müşteri Hizmetleri,Müşteri Temsilcisi,3,Lisans,35777.0,2021-12-10,3.0,Gaziantep,selin.korkmaz@firma.com,05322739252
+EMP0151,Esra Şahin,Kadın,27,İnsan Kaynakları,Eğitim Koordinatörü,4,Lisans,43018.0,2019-10-18,3.1,İstanbul,esra.şahin@firma.com,05376654141
+EMP0152,Ayşe Aydın,Kadın,25,İnsan Kaynakları,İK Müdürü,1,Yüksek Lisans,56402.0,2022-02-09,2.6,Adana,ayşe.aydın@firma.com,05505543388
+EMP0153,Onur Korkmaz,Erkek,52,Operasyon,Lojistik Müdürü,23,Lisans,131141.0,2018-11-11,3.5,İzmir,onur.korkmaz@firma.com,05584251611
+EMP0154,Büşra Öztürk,Kadın,58,IT,Sistem Yöneticisi,35,Lisans,125390.0,2022-05-05,2.9,Ankara,büşra.öztürk@firma.com,05440540280
+EMP0155,Serkan Özkan,Erkek,41,Ar-Ge,Araştırma Uzmanı,10,Ön Lisans,66532.0,2018-10-31,3.1,Gaziantep,serkan.özkan@firma.com,05392694177
+EMP0156,Efe Erdoğan,Erkek,59,Operasyon,Süreç Yöneticisi,1,Lise,37420.0,2024-01-30,4.0,Antalya,efe.erdoğan@firma.com,05461038014
+EMP0157,Efe Güneş,Erkek,29,Satış,Satış Temsilcisi,1,Doktora,,2019-07-23,3.0,Bursa,efe.güneş@firma.com,05565226009
+EMP0158,Ceren Özer,Kadın,25,Finans,Mali Müşavir,2,Lise,40482.0,2022-06-19,3.9,Gaziantep,ceren.özer@firma.com,05582230707
+EMP0159,Hüseyin Erdoğan,Erkek,33,İnsan Kaynakları,Eğitim Koordinatörü,0,Lisans,35774.0,2023-10-21,3.9,Adana,hüseyin.erdoğan@firma.com,05368899118
+EMP0160,Berkay Aydın,Erkek,32,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,3,Yüksek Lisans,39914.0,2018-08-15,2.3,Ankara,berkay.aydın@firma.com,05578153965
+EMP0161,Özge Çetin,Kadın,24,Operasyon,Süreç Yöneticisi,0,Lisans,32595.0,2018-11-20,4.9,Antalya,özge.çetin@firma.com,05405388788
+EMP0162,Kemal Şimşek,Erkek,23,İnsan Kaynakları,İK Müdürü,0,Lisans,54438.0,2024-07-06,4.9,İzmir,kemal.şimşek@firma.com,05391912633
+EMP0163,Hande Deniz,Kadın,41,IT,Yazılım Geliştirici,0,Lise,38418.0,2024-06-20,3.4,Antalya,hande.deniz@firma.com,05413176887
+EMP0164,Kaan Bayram,Erkek,59,Pazarlama,Marka Müdürü,34,Lisans,152739.0,2022-07-22,2.8,Antalya,kaan.bayram@firma.com,05543494654
+EMP0165,Gizem Avcı,Kadın,26,Ar-Ge,Araştırma Uzmanı,3,Lisans,48788.0,2019-08-12,3.6,Adana,gizem.avcı@firma.com,05471431681
+EMP0166,Zeynep Güneş,Kadın,33,İnsan Kaynakları,İşe Alım Uzmanı,2,Lisans,34880.0,2019-05-17,3.6,Antalya,zeynep.güneş@firma.com,05541375021
+EMP0167,Ece Tekin,Kadın,43,Müşteri Hizmetleri,Müşteri Temsilcisi,7,Doktora,57437.0,2019-10-17,3.9,Adana,ece.tekin@firma.com,05467887544
+EMP0168,Damla Şimşek,Kadın,58,Ar-Ge,Araştırma Uzmanı,4,Lise,45968.0,2022-05-30,3.8,Gaziantep,damla.şimşek@firma.com,05429240206
+EMP0169,Murat Çakır,Erkek,25,Ar-Ge,Ürün Geliştirme Uzmanı,0,Lisans,45168.0,2019-03-17,4.3,Konya,murat.çakır@firma.com,05371905772
+EMP0170,Defne Demir,Kadın,35,Müşteri Hizmetleri,Müşteri Temsilcisi,2,Yüksek Lisans,38594.0,2020-03-08,3.2,Adana,defne.demir@firma.com,05597009298
+EMP0171,Ebru Özer,Kadın,36,Pazarlama,Pazarlama Uzmanı,0,Ön Lisans,34736.0,2019-02-01,4.1,Konya,ebru.özer@firma.com,05500359330
+EMP0172,Ebru Özdemir,Kadın,27,Satış,Satış Danışmanı,5,Lisans,45394.0,2018-07-05,2.0,İstanbul,ebru.özdemir@firma.com,05373570841
+EMP0173,Zeynep Taş,Kadın,36,Finans,Finans Analisti,14,Doktora,83792.0,2021-07-28,3.6,İzmir,zeynep.taş@firma.com,05510965885
+EMP0174,Pınar Polat,Kadın,59,Ar-Ge,Ar-Ge Müdürü,32,Yüksek Lisans,187045.0,2023-04-30,3.7,İstanbul,pınar.polat@firma.com,05497760592
+EMP0175,Pınar Şimşek,Kadın,54,IT,IT Müdürü,3,Lisans,76094.0,2024-06-27,3.3,Bursa,pınar.şimşek@firma.com,05327571093
+EMP0176,Zeynep Kara,Kadın,59,IT,IT Müdürü,12,Doktora,117834.0,2019-03-27,4.1,Bursa,zeynep.kara@firma.com,05310166923
+EMP0177,Tuğba Aslan,Kadın,45,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,19,Yüksek Lisans,75350.0,2023-04-16,3.2,İstanbul,tuğba.aslan@firma.com,05374132468
+EMP0178,İrem Türk,Kadın,33,Operasyon,Operasyon Uzmanı,1,Lisans,32317.0,2023-12-24,3.1,Adana,i̇rem.türk@firma.com,05593278201
+EMP0179,Burcu Avcı,Kadın,57,Satış,Satış Müdürü,35,Lisans,163582.0,2021-05-07,2.7,Bursa,burcu.avcı@firma.com,05459780600
+EMP0180,Naz Avcı,Kadın,44,Operasyon,Süreç Yöneticisi,14,Doktora,73086.0,2021-01-25,3.0,Antalya,naz.avcı@firma.com,05365430661
+EMP0181,Hande Aksoy,Kadın,47,Finans,Finans Analisti,12,Lise,55108.0,2018-11-20,4.1,Adana,hande.aksoy@firma.com,05537498865
+EMP0182,İbrahim Bayram,Erkek,33,Pazarlama,Marka Müdürü,11,Ön Lisans,89652.0,2024-11-26,2.8,Bursa,i̇brahim.bayram@firma.com,05430168671
+EMP0183,Kemal Çetin,Erkek,25,IT,Yazılım Geliştirici,0,Lisans,,2023-04-19,2.9,Ankara,kemal.çetin@firma.com,05373802053
+EMP0184,Eren Avcı,Erkek,49,Ar-Ge,Ar-Ge Müdürü,25,Lisans,126102.0,2021-03-22,3.8,Adana,eren.avcı@firma.com,05453231195
+EMP0185,Kemal Deniz,Erkek,50,Satış,Satış Temsilcisi,13,Doktora,86949.0,2019-12-19,3.4,Konya,kemal.deniz@firma.com,05394375840
+EMP0186,Gamze Çakır,Kadın,58,Finans,Finans Analisti,20,Yüksek Lisans,80256.0,2018-02-07,4.0,Antalya,gamze.çakır@firma.com,05357606619
+EMP0187,Seda Bayram,Kadın,44,Ar-Ge,Araştırma Uzmanı,0,Yüksek Lisans,49876.0,2023-04-02,2.3,Antalya,seda.bayram@firma.com,05403514831
+EMP0188,Seda Koç,Kadın,30,Finans,Mali Müşavir,4,Yüksek Lisans,52538.0,2021-04-23,4.6,Bursa,seda.koç@firma.com,05394218113
+EMP0189,Hande Bulut,Kadın,47,Operasyon,Operasyon Uzmanı,8,Lisans,44860.0,2019-01-26,2.4,İzmir,hande.bulut@firma.com,05375490426
+EMP0190,Yusuf Türk,Erkek,48,Satış,Satış Danışmanı,16,Yüksek Lisans,81901.0,2021-09-12,1.6,Antalya,yusuf.türk@firma.com,05306139513
+EMP0191,Mehmet Öztürk,Erkek,45,Ar-Ge,Ürün Geliştirme Uzmanı,6,Lisans,50387.0,2023-08-21,3.0,Antalya,mehmet.öztürk@firma.com,05363037096
+EMP0192,Burcu Çetin,Kadın,47,Satış,Satış Müdürü,17,Lisans,104197.0,2023-02-07,4.1,Adana,burcu.çetin@firma.com,05523255414
+EMP0193,Berkay Kara,Erkek,41,İnsan Kaynakları,Eğitim Koordinatörü,8,Lisans,47416.0,2022-01-21,2.9,Ankara,berkay.kara@firma.com,05360241639
+EMP0194,Oğuz Bayram,Erkek,28,Finans,Muhasebeci,0,Lisans,38479.0,2023-11-02,3.4,Gaziantep,oğuz.bayram@firma.com,05362405885
+EMP0195,Emine Tunç,Kadın,51,Ar-Ge,Araştırma Uzmanı,22,Lisans,83382.0,2023-10-04,3.2,Konya,emine.tunç@firma.com,05545241813
+EMP0196,Derya Kaya,Kadın,50,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,15,Yüksek Lisans,97005.0,2020-06-11,2.0,Ankara,derya.kaya@firma.com,05324314777
+EMP0197,Okan Çelik,Erkek,35,Ar-Ge,Araştırma Uzmanı,2,Lisans,45570.0,2020-01-08,1.6,İzmir,okan.çelik@firma.com,05525680099
+EMP0198,Melis Türk,Kadın,51,Müşteri Hizmetleri,Müşteri Temsilcisi,5,Yüksek Lisans,44964.0,2024-01-18,4.3,İzmir,melis.türk@firma.com,05486707539
+EMP0199,İrem Aydın,Kadın,29,Satış,Satış Temsilcisi,4,Yüksek Lisans,47452.0,2021-05-07,3.9,Gaziantep,i̇rem.aydın@firma.com,05592296866
+EMP0200,Ömer Aktaş,Erkek,55,Operasyon,Operasyon Uzmanı,32,Lisans,89602.0,2019-04-08,3.3,İstanbul,ömer.aktaş@firma.com,05525078083
+EMP0201,Ömer Aslan,Erkek,49,İnsan Kaynakları,İK Uzmanı,17,Yüksek Lisans,85174.0,2023-01-03,4.4,İstanbul,ömer.aslan@firma.com,05431390646
+EMP0202,Deniz Aslan,Erkek,24,IT,Sistem Yöneticisi,2,Lisans,50684.0,2021-03-30,2.0,Bursa,deniz.aslan@firma.com,05471210116
+EMP0203,Büşra Şimşek,Kadın,29,Finans,Muhasebeci,5,Lisans,46725.0,2021-02-01,3.6,İstanbul,büşra.şimşek@firma.com,05598885761
+EMP0204,Kemal Bulut,Erkek,29,Ar-Ge,Araştırma Uzmanı,1,Doktora,58358.0,2022-04-11,4.2,Adana,kemal.bulut@firma.com,05523512586
+EMP0205,Berkay Bayram,Erkek,45,Ar-Ge,Araştırma Uzmanı,13,Yüksek Lisans,79814.0,2021-05-16,2.3,İzmir,berkay.bayram@firma.com,05548584739
+EMP0206,Aslı Uçar,Kadın,39,Finans,Finans Müdürü,6,Lisans,78386.0,2020-04-12,2.9,Adana,aslı.uçar@firma.com,05342450614
+EMP0207,Deniz Kılıç,Erkek,42,IT,Veri Analisti,18,Lisans,74888.0,2024-10-13,3.7,İstanbul,deniz.kılıç@firma.com,05339075791
+EMP0208,Kaan Aslan,Erkek,39,Operasyon,Lojistik Müdürü,1,Doktora,75072.0,2018-03-04,4.1,Bursa,kaan.aslan@firma.com,05402018193
+EMP0209,Özge Kara,Kadın,26,Satış,Satış Danışmanı,3,Yüksek Lisans,48253.0,2024-03-11,3.3,Adana,özge.kara@firma.com,05451966250
+EMP0210,Selin Koç,Kadın,41,Operasyon,Süreç Yöneticisi,4,Yüksek Lisans,47051.0,2023-03-24,3.4,Ankara,selin.koç@firma.com,05552055750
+EMP0211,Can Erdoğan,Erkek,30,Müşteri Hizmetleri,Müşteri Temsilcisi,1,Lisans,34310.0,2020-06-25,3.3,İzmir,can.erdoğan@firma.com,05308707993
+EMP0212,Selin Özdemir,Kadın,51,Satış,Bölge Müdürü,23,Lisans,132381.0,2024-05-22,3.7,Bursa,selin.özdemir@firma.com,05568060440
+EMP0213,Esra Çakır,Kadın,53,Ar-Ge,Ürün Geliştirme Uzmanı,16,Lisans,70896.0,2021-12-13,4.1,İzmir,esra.çakır@firma.com,05375139661
+EMP0214,Burak Demir,Erkek,46,İnsan Kaynakları,İK Uzmanı,6,Yüksek Lisans,51001.0,2022-08-17,4.2,İzmir,burak.demir@firma.com,05424249856
+EMP0215,Burak Aktaş,Erkek,43,Operasyon,Operasyon Uzmanı,10,Yüksek Lisans,,2024-11-30,4.3,Gaziantep,burak.aktaş@firma.com,05561914831
+EMP0216,Fatma Kaya,Kadın,27,Pazarlama,Marka Müdürü,1,Lise,57976.0,2022-10-30,4.3,İzmir,fatma.kaya@firma.com,05357454005
+EMP0217,İbrahim Tekin,Erkek,59,Pazarlama,Marka Müdürü,33,Lisans,156174.0,2022-06-14,4.2,Ankara,i̇brahim.tekin@firma.com,05500280541
+EMP0218,Tolga Çetin,Erkek,44,Pazarlama,Pazarlama Uzmanı,20,Yüksek Lisans,79889.0,2018-05-10,3.8,Ankara,tolga.çetin@firma.com,05517582129
+EMP0219,Kemal Yılmaz,Erkek,42,Finans,Mali Müşavir,5,Lisans,52321.0,2022-11-13,4.0,Adana,kemal.yılmaz@firma.com,05351196994
+EMP0220,İbrahim Deniz,Erkek,28,Ar-Ge,Ürün Geliştirme Uzmanı,1,Lise,47646.0,2018-11-01,2.6,Antalya,i̇brahim.deniz@firma.com,05591537386
+EMP0221,Fatma Aslan,Kadın,47,Finans,Finans Müdürü,20,Doktora,140855.0,2021-05-10,3.3,İzmir,fatma.aslan@firma.com,05429102526
+EMP0222,Ece Aydın,Kadın,57,İnsan Kaynakları,İşe Alım Uzmanı,25,Lise,76647.0,2022-11-26,3.6,Bursa,ece.aydın@firma.com,05340811986
+EMP0223,Ebru Erdoğan,Kadın,32,IT,Veri Analisti,3,Yüksek Lisans,57776.0,2023-01-20,2.8,Gaziantep,ebru.erdoğan@firma.com,05422480865
+EMP0224,Elif Güzel,Kadın,45,Müşteri Hizmetleri,Müşteri Temsilcisi,21,Yüksek Lisans,73585.0,2021-04-24,5.0,Bursa,elif.güzel@firma.com,05339463600
+EMP0225,Arda Türk,Erkek,57,Operasyon,Lojistik Müdürü,19,Ön Lisans,102098.0,2018-01-22,3.7,Antalya,arda.türk@firma.com,05538765751
+EMP0226,Mustafa Doğan,Erkek,55,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,8,Yüksek Lisans,,2023-09-30,3.7,Konya,mustafa.doğan@firma.com,05355454968
+EMP0227,Serkan Taş,Erkek,30,Operasyon,Lojistik Müdürü,8,Lise,74228.0,2022-08-22,4.7,Konya,serkan.taş@firma.com,05345472705
+EMP0228,Oğuz Uçar,Erkek,46,Finans,Finans Müdürü,6,Lisans,71384.0,2021-01-06,3.0,Antalya,oğuz.uçar@firma.com,05444099800
+EMP0229,Esra Akın,Kadın,58,Pazarlama,Pazarlama Müdürü,29,Yüksek Lisans,137064.0,2022-01-19,4.2,Antalya,esra.akın@firma.com,05432387032
+EMP0230,Barış Yıldırım,Erkek,38,Finans,Finans Analisti,9,Lise,60210.0,2022-06-09,3.1,Adana,barış.yıldırım@firma.com,05503951866
+EMP0231,Gizem Taş,Kadın,33,Finans,Finans Analisti,7,Lisans,55149.0,2020-04-02,4.1,Gaziantep,gizem.taş@firma.com,05468675864
+EMP0232,Selin Çakır,Kadın,37,Satış,Bölge Müdürü,5,Lisans,78309.0,2022-05-29,4.2,Adana,selin.çakır@firma.com,05361143059
+EMP0233,Onur Özer,Erkek,33,IT,DevOps Mühendisi,10,Yüksek Lisans,82040.0,2020-05-08,3.8,Gaziantep,onur.özer@firma.com,05456407251
+EMP0234,Şebnem Çakır,Kadın,44,Finans,Finans Analisti,20,Lisans,75196.0,2019-09-24,3.6,Konya,şebnem.çakır@firma.com,05502395405
+EMP0235,Pınar Karaca,Kadın,36,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,4,Lise,37187.0,2022-01-12,3.4,Ankara,pınar.karaca@firma.com,05358717263
+EMP0236,Elif Tekin,Kadın,50,IT,IT Müdürü,17,Doktora,143636.0,2022-06-25,2.8,Adana,elif.tekin@firma.com,05531099061
+EMP0237,Burak Uçar,Erkek,56,Satış,Satış Danışmanı,17,Lisans,72323.0,2023-03-12,4.4,İzmir,burak.uçar@firma.com,05485202955
+EMP0238,Gizem Yıldız,Kadın,45,İnsan Kaynakları,İK Müdürü,2,Lisans,56750.0,2021-11-06,4.4,Gaziantep,gizem.yıldız@firma.com,05411061048
+EMP0239,Barış Korkmaz,Erkek,24,Operasyon,Operasyon Uzmanı,0,Ön Lisans,35211.0,2019-04-17,2.0,İstanbul,barış.korkmaz@firma.com,05484188571
+EMP0240,Okan Kara,Erkek,36,Finans,Muhasebeci,7,Lisans,54426.0,2022-10-13,2.6,Gaziantep,okan.kara@firma.com,05424476497
+EMP0241,Kemal Bulut,Erkek,50,Müşteri Hizmetleri,Müşteri Temsilcisi,21,Yüksek Lisans,79798.0,2020-03-19,4.1,Gaziantep,kemal.bulut@firma.com,05530614426
+EMP0242,Yusuf Çelik,Erkek,23,İnsan Kaynakları,İK Müdürü,0,Ön Lisans,52100.0,2020-03-18,3.7,Gaziantep,yusuf.çelik@firma.com,05361179108
+EMP0243,Burcu Türk,Kadın,55,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,29,Ön Lisans,74042.0,2021-12-12,3.9,Gaziantep,burcu.türk@firma.com,05392625001
+EMP0244,Özge Tekin,Kadın,50,İnsan Kaynakları,İK Müdürü,16,Lisans,94428.0,2020-09-04,3.4,Antalya,özge.tekin@firma.com,05362786467
+EMP0245,Gizem Taş,Kadın,37,Finans,Finans Müdürü,7,Lisans,73579.0,2023-06-17,3.3,İzmir,gizem.taş@firma.com,05597916422
+EMP0246,Emre Korkmaz,Erkek,41,IT,Veri Analisti,4,Doktora,69327.0,2023-06-08,3.0,İzmir,emre.korkmaz@firma.com,05404758808
+EMP0247,Gizem Çakır,Kadın,24,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,0,Lisans,27466.0,2023-06-25,2.8,İzmir,gizem.çakır@firma.com,05344383454
+EMP0248,Murat Demir,Erkek,46,Pazarlama,Dijital Pazarlama Uzmanı,15,Lisans,60539.0,2019-11-20,3.0,Gaziantep,murat.demir@firma.com,05565919326
+EMP0249,Yusuf Bayram,Erkek,36,Operasyon,Süreç Yöneticisi,8,Yüksek Lisans,54069.0,2018-06-20,2.8,Gaziantep,yusuf.bayram@firma.com,05593321180
+EMP0250,Murat Demir,Erkek,58,Ar-Ge,Ürün Geliştirme Uzmanı,35,Lisans,102802.0,2018-12-23,3.3,Gaziantep,murat.demir@firma.com,05363021142
+EMP0251,Melis Tekin,Kadın,27,Müşteri Hizmetleri,Müşteri Temsilcisi,5,Lisans,40491.0,2020-04-26,3.4,Bursa,melis.tekin@firma.com,05331867494
+EMP0252,Emre Özkan,Erkek,50,Pazarlama,Marka Müdürü,21,Doktora,151316.0,2023-10-09,3.0,Ankara,emre.özkan@firma.com,05372793738
+EMP0253,Yusuf Aydın,Erkek,31,Finans,Muhasebeci,1,Ön Lisans,41026.0,2021-08-12,3.8,Bursa,yusuf.aydın@firma.com,05510829608
+EMP0254,Seda Akın,Kadın,44,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,16,Lise,90331.0,2019-01-17,3.9,Konya,seda.akın@firma.com,05576817874
+EMP0255,Ceren Çakır,Kadın,56,Operasyon,Süreç Yöneticisi,17,Lise,66851.0,2019-01-17,3.1,Gaziantep,ceren.çakır@firma.com,05492319363
+EMP0256,Merve Bulut,Kadın,46,Satış,Satış Danışmanı,8,Lisans,57613.0,2021-03-07,3.9,Adana,merve.bulut@firma.com,05593835104
+EMP0257,Gamze Polat,Kadın,32,IT,Yazılım Geliştirici,8,Lise,56201.0,2023-02-26,3.1,İstanbul,gamze.polat@firma.com,05366699324
+EMP0258,Fatma Bulut,Kadın,55,Satış,Satış Müdürü,11,Yüksek Lisans,88843.0,2021-05-21,3.5,İzmir,fatma.bulut@firma.com,05447113079
+EMP0259,Can Arslan,Erkek,46,IT,DevOps Mühendisi,4,Yüksek Lisans,63817.0,2020-08-17,,Konya,can.arslan@firma.com,05348962191
+EMP0260,Emine Aydın,Kadın,59,Satış,Satış Danışmanı,7,Lise,49923.0,2021-11-08,2.9,Ankara,emine.aydın@firma.com,05526728064
+EMP0261,Cem Yıldız,Erkek,39,İnsan Kaynakları,İK Uzmanı,5,Lisans,49159.0,2021-05-10,3.5,İzmir,cem.yıldız@firma.com,05505471799
+EMP0262,Kemal Özdemir,Erkek,24,İnsan Kaynakları,İK Uzmanı,1,Lisans,37323.0,2019-11-04,4.2,Gaziantep,kemal.özdemir@firma.com,05488542471
+EMP0263,Okan Akın,Erkek,34,Ar-Ge,Araştırma Uzmanı,12,Lise,69087.0,2019-02-16,4.3,İzmir,okan.akın@firma.com,05366119528
+EMP0264,Naz Aydın,Kadın,49,Satış,Bölge Müdürü,0,Yüksek Lisans,56955.0,2020-10-13,3.5,Antalya,naz.aydın@firma.com,05314401241
+EMP0265,Merve Uçar,Kadın,34,Satış,Satış Danışmanı,10,Lisans,54660.0,2018-08-12,3.7,Bursa,merve.uçar@firma.com,05565690821
+EMP0266,Burak Yılmaz,Erkek,28,Operasyon,Lojistik Müdürü,4,Ön Lisans,69413.0,2024-05-17,3.1,Konya,burak.yılmaz@firma.com,05496179322
+EMP0267,Ebru Çelik,Kadın,52,IT,IT Müdürü,22,Lise,118554.0,2020-12-09,3.7,Bursa,ebru.çelik@firma.com,05321381882
+EMP0268,İrem Özkan,Kadın,39,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,3,Yüksek Lisans,61574.0,2018-12-04,3.4,İzmir,i̇rem.özkan@firma.com,05448964359
+EMP0269,Efe Özdemir,Erkek,33,Operasyon,Lojistik Müdürü,6,Lisans,66173.0,2018-09-28,3.3,Antalya,efe.özdemir@firma.com,05534873529
+EMP0270,Ömer Yıldız,Erkek,38,Müşteri Hizmetleri,Müşteri Temsilcisi,7,Lisans,41886.0,2024-10-29,3.1,İstanbul,ömer.yıldız@firma.com,05466048838
+EMP0271,Ali Yılmaz,Erkek,45,Finans,Mali Müşavir,12,Lisans,67582.0,2021-11-21,3.7,Antalya,ali.yılmaz@firma.com,05389637552
+EMP0272,Derya Öztürk,Kadın,31,IT,Veri Analisti,8,Yüksek Lisans,72609.0,2021-01-19,3.2,Ankara,derya.öztürk@firma.com,05441170016
+EMP0273,Kaan Aktaş,Erkek,36,Operasyon,Operasyon Uzmanı,13,Lisans,64095.0,2024-05-10,3.1,İzmir,kaan.aktaş@firma.com,05497400874
+EMP0274,Ömer Tunç,Erkek,57,IT,Yazılım Geliştirici,3,Yüksek Lisans,56315.0,2018-02-20,3.8,Bursa,ömer.tunç@firma.com,05324686144
+EMP0275,Hasan Demir,Erkek,38,Müşteri Hizmetleri,Müşteri Temsilcisi,11,Lisans,47500.0,2022-09-01,2.2,Adana,hasan.demir@firma.com,05445630507
+EMP0276,Burak Şahin,Erkek,47,Finans,Muhasebeci,23,Yüksek Lisans,89914.0,2018-07-08,4.2,Konya,burak.şahin@firma.com,05337004598
+EMP0277,Naz Yıldız,Kadın,35,Ar-Ge,Araştırma Uzmanı,12,Lisans,63445.0,2021-04-09,2.3,Antalya,naz.yıldız@firma.com,05430236291
+EMP0278,Ebru Kılıç,Kadın,50,Satış,Satış Müdürü,10,Lise,87940.0,2022-08-07,4.5,İstanbul,ebru.kılıç@firma.com,05425089710
+EMP0279,Emre Yılmaz,Erkek,53,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,18,Yüksek Lisans,72143.0,2019-03-02,4.0,Bursa,emre.yılmaz@firma.com,05584441984
+EMP0280,Hüseyin Kurt,Erkek,56,İnsan Kaynakları,İK Uzmanı,12,Doktora,78974.0,2023-10-30,3.5,Konya,hüseyin.kurt@firma.com,05499980106
+EMP0281,Burak Aydın,Erkek,36,Müşteri Hizmetleri,Müşteri Temsilcisi,6,Yüksek Lisans,51448.0,2018-09-13,4.1,Konya,burak.aydın@firma.com,05370173478
+EMP0282,Özge Karaca,Kadın,35,Operasyon,Lojistik Müdürü,3,Lisans,59713.0,2020-08-14,3.2,Ankara,özge.karaca@firma.com,05408830512
+EMP0283,Hüseyin Yıldırım,Erkek,38,Finans,Finans Müdürü,11,Lisans,84282.0,2022-07-24,3.8,Ankara,hüseyin.yıldırım@firma.com,05587722302
+EMP0284,Selin Aktaş,Kadın,58,Pazarlama,Pazarlama Uzmanı,19,Lise,69197.0,2021-05-31,3.7,İstanbul,selin.aktaş@firma.com,05415438405
+EMP0285,Tolga Kara,Erkek,24,Operasyon,Lojistik Müdürü,2,Lisans,,2021-05-09,3.3,Antalya,tolga.kara@firma.com,05393344531
+EMP0286,Aslı Özer,Kadın,56,Satış,Satış Temsilcisi,24,Lisans,86558.0,2019-07-27,3.7,Ankara,aslı.özer@firma.com,05306419325
+EMP0287,Hüseyin Kılıç,Erkek,37,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,10,Yüksek Lisans,,2018-12-11,3.7,Antalya,hüseyin.kılıç@firma.com,05340258438
+EMP0288,Gamze Aydın,Kadın,29,İnsan Kaynakları,İşe Alım Uzmanı,6,Ön Lisans,44814.0,2023-03-04,3.3,İstanbul,gamze.aydın@firma.com,05390188516
+EMP0289,Damla Kaya,Kadın,28,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,2,Lisans,33984.0,2021-12-20,3.4,Bursa,damla.kaya@firma.com,05400475989
+EMP0290,Mehmet Tekin,Erkek,51,Satış,Bölge Müdürü,13,Lisans,97887.0,2024-03-05,2.6,Gaziantep,mehmet.tekin@firma.com,05332737888
+EMP0291,Merve Uçar,Kadın,41,Satış,Satış Temsilcisi,3,Doktora,52194.0,2022-01-10,3.8,Gaziantep,merve.uçar@firma.com,05592335769
+EMP0292,Ece Kurt,Kadın,23,Finans,Mali Müşavir,1,Ön Lisans,41387.0,2020-06-16,2.8,İstanbul,ece.kurt@firma.com,05450824577
+EMP0293,Ebru Güzel,Kadın,38,Satış,Satış Müdürü,7,Ön Lisans,75467.0,2020-09-14,3.7,Antalya,ebru.güzel@firma.com,05586522400
+EMP0294,Berkay Çetin,Erkek,59,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,31,Doktora,177915.0,2019-12-13,3.4,İzmir,berkay.çetin@firma.com,05426997423
+EMP0295,Özge Güzel,Kadın,46,IT,Veri Analisti,0,Doktora,60889.0,2024-04-27,4.2,İzmir,özge.güzel@firma.com,05401057178
+EMP0296,Aslı Şimşek,Kadın,38,Finans,Finans Müdürü,11,Lise,,2018-08-19,4.1,Bursa,aslı.şimşek@firma.com,05417472157
+EMP0297,Özge Tekin,Kadın,37,Satış,Satış Müdürü,5,Lisans,,2019-12-28,3.3,Adana,özge.tekin@firma.com,05331973865
+EMP0298,Berkay Öztürk,Erkek,54,Operasyon,Operasyon Uzmanı,1,Lisans,37253.0,2022-06-09,3.5,Ankara,berkay.öztürk@firma.com,05480689849
+EMP0299,Arda Bulut,Erkek,34,Ar-Ge,Ar-Ge Müdürü,0,Lisans,67088.0,2024-04-20,2.5,Adana,arda.bulut@firma.com,05419849565
+EMP0300,Selin Özkan,Kadın,59,Finans,Muhasebeci,25,Yüksek Lisans,105707.0,2024-06-04,2.7,Konya,selin.özkan@firma.com,05317385353
+EMP0301,Kemal Deniz,Erkek,55,İnsan Kaynakları,Eğitim Koordinatörü,10,Ön Lisans,50866.0,2018-11-15,3.6,Bursa,kemal.deniz@firma.com,05486192265
+EMP0302,Tunç Polat,Erkek,30,Ar-Ge,Araştırma Uzmanı,6,Lisans,55219.0,2020-10-19,4.1,Ankara,tunç.polat@firma.com,05488163141
+EMP0303,Mehmet Türk,Erkek,33,Ar-Ge,Ar-Ge Müdürü,7,Lisans,91515.0,2019-11-13,4.4,Konya,mehmet.türk@firma.com,05564721376
+EMP0304,Hatice Avcı,Kadın,28,Satış,Satış Müdürü,2,Lisans,65513.0,2018-05-17,3.9,Antalya,hatice.avcı@firma.com,05310779295
+EMP0305,Emre Arslan,Erkek,43,Müşteri Hizmetleri,Müşteri Temsilcisi,2,Yüksek Lisans,35508.0,2024-02-19,3.3,Ankara,emre.arslan@firma.com,05481435836
+EMP0306,Tuğba Kaya,Kadın,39,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,11,Lisans,46049.0,2022-11-14,2.6,İzmir,tuğba.kaya@firma.com,05328752520
+EMP0307,Eren Özer,Erkek,40,Pazarlama,Marka Müdürü,13,Lisans,91417.0,2019-01-28,3.9,İstanbul,eren.özer@firma.com,05510937771
+EMP0308,Mehmet Güneş,Erkek,53,IT,DevOps Mühendisi,18,Lise,75519.0,2024-09-24,3.1,Gaziantep,mehmet.güneş@firma.com,05407199595
+EMP0309,Emine Avcı,Kadın,27,İnsan Kaynakları,İşe Alım Uzmanı,1,Yüksek Lisans,41511.0,2023-04-13,3.2,Gaziantep,emine.avcı@firma.com,05442273154
+EMP0310,Can Türk,Erkek,49,Operasyon,Operasyon Uzmanı,9,Lisans,51974.0,2020-12-14,5.0,Gaziantep,can.türk@firma.com,05549676091
+EMP0311,Hüseyin Yıldırım,Erkek,50,İnsan Kaynakları,İşe Alım Uzmanı,21,Yüksek Lisans,80237.0,2022-08-23,3.3,Bursa,hüseyin.yıldırım@firma.com,05597212763
+EMP0312,Aslı Avcı,Kadın,51,Satış,Satış Danışmanı,20,Lisans,79864.0,2022-06-06,2.3,İstanbul,aslı.avcı@firma.com,05569563672
+EMP0313,Ali Korkmaz,Erkek,41,Finans,Muhasebeci,4,Doktora,58151.0,2020-02-29,2.4,İzmir,ali.korkmaz@firma.com,05322911448
+EMP0314,Merve Özdemir,Kadın,55,Pazarlama,Marka Müdürü,1,Doktora,73319.0,2018-10-02,4.9,Ankara,merve.özdemir@firma.com,05508359147
+EMP0315,İrem Aktaş,Kadın,33,IT,IT Müdürü,2,Lisans,73087.0,2022-09-15,3.1,Ankara,i̇rem.aktaş@firma.com,05522502069
+EMP0316,Okan Yıldırım,Erkek,29,İnsan Kaynakları,İşe Alım Uzmanı,3,Yüksek Lisans,51007.0,2021-11-09,3.8,Konya,okan.yıldırım@firma.com,05441807273
+EMP0317,Ayşe Doğan,Kadın,44,Pazarlama,Pazarlama Müdürü,9,Ön Lisans,77990.0,2024-10-29,3.7,Konya,ayşe.doğan@firma.com,05320821214
+EMP0318,Mehmet Avcı,Erkek,35,Pazarlama,Marka Müdürü,7,Lise,77715.0,2021-05-26,3.3,Antalya,mehmet.avcı@firma.com,05450509962
+EMP0319,Alp Çetin,Erkek,41,Finans,Finans Analisti,1,Doktora,48250.0,2022-12-20,2.6,Adana,alp.çetin@firma.com,05444643751
+EMP0320,İbrahim Korkmaz,Erkek,49,Satış,Satış Danışmanı,1,Yüksek Lisans,49293.0,2023-10-17,4.3,Adana,i̇brahim.korkmaz@firma.com,05330175271
+EMP0321,Tuğba Tunç,Kadın,26,Müşteri Hizmetleri,Müşteri Temsilcisi,0,Yüksek Lisans,33856.0,2023-11-18,3.5,İstanbul,tuğba.tunç@firma.com,05393274534
+EMP0322,Ömer Demir,Erkek,32,Ar-Ge,Araştırma Uzmanı,9,Yüksek Lisans,63114.0,2020-03-26,3.8,Antalya,ömer.demir@firma.com,05497757434
+EMP0323,Onur Kaya,Erkek,35,Satış,Bölge Müdürü,9,Lisans,83139.0,2023-01-02,2.9,İzmir,onur.kaya@firma.com,05554789424
+EMP0324,Tunç Koç,Erkek,26,İnsan Kaynakları,İşe Alım Uzmanı,3,Lise,41720.0,2018-07-23,3.8,İzmir,tunç.koç@firma.com,05415061413
+EMP0325,Yusuf Akın,Erkek,33,IT,Yazılım Geliştirici,0,Lisans,42772.0,2019-06-26,2.6,İzmir,yusuf.akın@firma.com,05304543931
+EMP0326,Tuğba Kurt,Kadın,58,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,35,Yüksek Lisans,170624.0,2023-02-24,2.4,Antalya,tuğba.kurt@firma.com,05417150095
+EMP0327,Pınar Yıldırım,Kadın,49,IT,IT Müdürü,14,Doktora,137619.0,2022-03-13,3.3,Antalya,pınar.yıldırım@firma.com,05460243042
+EMP0328,Esra Erdoğan,Kadın,23,Pazarlama,Marka Müdürü,0,Lisans,55561.0,2021-05-08,3.1,Bursa,esra.erdoğan@firma.com,05380492676
+EMP0329,Efe Taş,Erkek,50,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,0,Lisans,27732.0,2019-07-28,4.0,İstanbul,efe.taş@firma.com,05567025000
+EMP0330,Ece Türk,Kadın,26,IT,IT Müdürü,0,Yüksek Lisans,71776.0,2024-06-01,3.4,Bursa,ece.türk@firma.com,05484236406
+EMP0331,Özge Aksoy,Kadın,41,Pazarlama,Dijital Pazarlama Uzmanı,17,Yüksek Lisans,82140.0,2024-04-05,3.6,İzmir,özge.aksoy@firma.com,05457724115
+EMP0332,Derya Özer,Kadın,52,Finans,Finans Analisti,23,Yüksek Lisans,95151.0,2020-06-29,3.8,Adana,derya.özer@firma.com,05419898267
+EMP0333,Defne Koç,Kadın,59,Pazarlama,Pazarlama Müdürü,19,Yüksek Lisans,111386.0,2023-04-12,3.0,İstanbul,defne.koç@firma.com,05338233657
+EMP0334,Alp Türk,Erkek,42,Pazarlama,Pazarlama Müdürü,0,Lise,58062.0,2019-09-10,3.9,İzmir,alp.türk@firma.com,05407533414
+EMP0335,Zeynep Erdoğan,Kadın,50,Finans,Mali Müşavir,5,Lisans,,2019-12-26,4.1,Adana,zeynep.erdoğan@firma.com,05331145810
+EMP0336,Oğuz Arslan,Erkek,47,Ar-Ge,Araştırma Uzmanı,10,Ön Lisans,64272.0,2022-11-12,3.8,Konya,oğuz.arslan@firma.com,05516570227
+EMP0337,Mehmet Bayram,Erkek,39,Satış,Bölge Müdürü,16,Doktora,139935.0,2021-08-12,3.8,Bursa,mehmet.bayram@firma.com,05309618647
+EMP0338,Ömer Aksoy,Erkek,48,Pazarlama,Dijital Pazarlama Uzmanı,7,Ön Lisans,54014.0,2023-08-24,3.9,Antalya,ömer.aksoy@firma.com,05389668281
+EMP0339,Ceren Uçar,Kadın,25,Operasyon,Lojistik Müdürü,0,Yüksek Lisans,61297.0,2019-07-03,3.9,Adana,ceren.uçar@firma.com,05563162676
+EMP0340,Fatma Çetin,Kadın,47,Satış,Satış Müdürü,1,Lisans,60967.0,2018-03-31,4.2,İzmir,fatma.çetin@firma.com,05366122086
+EMP0341,Cem Koç,Erkek,30,IT,IT Müdürü,0,Doktora,82804.0,2019-03-19,3.7,İstanbul,cem.koç@firma.com,05325895999
+EMP0342,Hatice Özer,Kadın,34,Pazarlama,Pazarlama Müdürü,8,Yüksek Lisans,81920.0,2020-04-21,3.8,İstanbul,hatice.özer@firma.com,05461660667
+EMP0343,Burcu Taş,Kadın,59,Finans,Finans Müdürü,3,Yüksek Lisans,80748.0,2019-03-06,4.0,Ankara,burcu.taş@firma.com,05451777041
+EMP0344,Serkan Kılıç,Erkek,40,Pazarlama,Dijital Pazarlama Uzmanı,12,Lisans,,2022-08-06,3.9,Antalya,serkan.kılıç@firma.com,05386099921
+EMP0345,Tolga Avcı,Erkek,45,Operasyon,Operasyon Uzmanı,21,Lise,79295.0,2018-12-31,4.3,Ankara,tolga.avcı@firma.com,05565270083
+EMP0346,Arda Yıldırım,Erkek,28,Pazarlama,Dijital Pazarlama Uzmanı,6,Lisans,50915.0,2021-04-27,2.5,Antalya,arda.yıldırım@firma.com,05549257010
+EMP0347,Alp Özkan,Erkek,50,Operasyon,Süreç Yöneticisi,24,Lisans,,2019-04-20,2.0,Ankara,alp.özkan@firma.com,05324636518
+EMP0348,Emre Aksoy,Erkek,59,Ar-Ge,Ar-Ge Müdürü,25,Lisans,140402.0,2019-01-16,4.7,Adana,emre.aksoy@firma.com,05483997863
+EMP0349,Esra Türk,Kadın,29,Ar-Ge,Ürün Geliştirme Uzmanı,5,Lisans,52452.0,2019-11-15,5.0,Ankara,esra.türk@firma.com,05371141610
+EMP0350,Ali Akın,Erkek,29,Ar-Ge,Ar-Ge Müdürü,7,Lisans,89832.0,2020-01-13,3.5,Konya,ali.akın@firma.com,05492521325
+EMP0351,Kaan Çakır,Erkek,49,İnsan Kaynakları,Eğitim Koordinatörü,20,Lisans,,2018-09-17,2.4,Antalya,kaan.çakır@firma.com,05468705214
+EMP0352,Onur Polat,Erkek,57,İnsan Kaynakları,Eğitim Koordinatörü,14,Yüksek Lisans,70919.0,2020-10-15,3.6,Gaziantep,onur.polat@firma.com,05485622843
+EMP0353,Tunç Özer,Erkek,44,IT,Yazılım Geliştirici,5,Yüksek Lisans,66372.0,2019-10-05,3.6,Gaziantep,tunç.özer@firma.com,05566199349
+EMP0354,Naz Kara,Kadın,42,Operasyon,Lojistik Müdürü,10,Lise,72276.0,2020-07-01,4.8,Konya,naz.kara@firma.com,05516507684
+EMP0355,Gamze Deniz,Kadın,36,Ar-Ge,Araştırma Uzmanı,8,Yüksek Lisans,65352.0,2023-01-06,3.4,Adana,gamze.deniz@firma.com,05363730252
+EMP0356,Ali Karaca,Erkek,40,Müşteri Hizmetleri,Müşteri Temsilcisi,1,Yüksek Lisans,34344.0,2018-01-01,2.5,Ankara,ali.karaca@firma.com,05463529783
+EMP0357,Naz Güneş,Kadın,25,IT,Sistem Yöneticisi,3,Yüksek Lisans,57364.0,2021-09-21,3.5,Gaziantep,naz.güneş@firma.com,05495042275
+EMP0358,Ahmet Polat,Erkek,29,Operasyon,Süreç Yöneticisi,7,Doktora,,2021-04-10,4.0,Adana,ahmet.polat@firma.com,05357081315
+EMP0359,Tunç Akın,Erkek,51,İnsan Kaynakları,İşe Alım Uzmanı,17,Yüksek Lisans,77761.0,2020-02-08,2.8,Ankara,tunç.akın@firma.com,05510934699
+EMP0360,Tolga Polat,Erkek,31,İnsan Kaynakları,Eğitim Koordinatörü,6,Lise,47236.0,2024-08-08,3.5,Ankara,tolga.polat@firma.com,05541862815
+EMP0361,Kaan Yılmaz,Erkek,28,IT,IT Müdürü,6,Yüksek Lisans,90594.0,2024-07-24,2.4,Gaziantep,kaan.yılmaz@firma.com,05572909146
+EMP0362,Arda Aydın,Erkek,57,İnsan Kaynakları,Eğitim Koordinatörü,19,Yüksek Lisans,83673.0,2024-10-18,3.8,Adana,arda.aydın@firma.com,05570642058
+EMP0363,Yusuf Karaca,Erkek,28,Operasyon,Lojistik Müdürü,5,Lisans,68178.0,2019-07-01,3.6,İzmir,yusuf.karaca@firma.com,05521591039
+EMP0364,Hande Özer,Kadın,34,Operasyon,Süreç Yöneticisi,6,Yüksek Lisans,53386.0,2024-03-17,3.2,Bursa,hande.özer@firma.com,05407851504
+EMP0365,Özge Aydın,Kadın,49,Finans,Finans Analisti,8,Yüksek Lisans,66255.0,2021-12-13,3.2,Gaziantep,özge.aydın@firma.com,05524131757
+EMP0366,Nil Bulut,Kadın,29,IT,IT Müdürü,7,Ön Lisans,80660.0,2022-04-10,2.7,İzmir,nil.bulut@firma.com,05328489054
+EMP0367,Murat Koç,Erkek,58,Finans,Mali Müşavir,3,Yüksek Lisans,,2021-04-23,3.3,Bursa,murat.koç@firma.com,05590539552
+EMP0368,Serkan Özer,Erkek,31,Satış,Satış Danışmanı,8,Lisans,49631.0,2021-03-24,4.4,İstanbul,serkan.özer@firma.com,05504860615
+EMP0369,Aslı Şahin,Kadın,57,IT,Veri Analisti,9,Lisans,60328.0,2022-12-20,3.9,Bursa,aslı.şahin@firma.com,05497429508
+EMP0370,Berkay Kılıç,Erkek,55,Pazarlama,Pazarlama Müdürü,32,Lisans,142917.0,2018-11-02,3.0,İzmir,berkay.kılıç@firma.com,05393305548
+EMP0371,Eren Kurt,Erkek,38,Pazarlama,Dijital Pazarlama Uzmanı,15,Lisans,64484.0,2020-11-10,3.0,İstanbul,eren.kurt@firma.com,05477469545
+EMP0372,Hüseyin Erdoğan,Erkek,32,IT,IT Müdürü,9,Yüksek Lisans,103390.0,2021-05-18,3.0,Gaziantep,hüseyin.erdoğan@firma.com,05595364996
+EMP0373,İrem Çetin,Kadın,34,Finans,Mali Müşavir,12,Yüksek Lisans,62493.0,2019-10-15,4.0,Konya,i̇rem.çetin@firma.com,05591563939
+EMP0374,Kaya Aslan,Erkek,39,Operasyon,Lojistik Müdürü,2,Lisans,57829.0,2020-06-13,2.4,Gaziantep,kaya.aslan@firma.com,05304726451
+EMP0375,Kaya Tekin,Erkek,32,Satış,Satış Temsilcisi,6,Lisans,48410.0,2021-08-07,3.8,Konya,kaya.tekin@firma.com,05360867219
+EMP0376,Fatma Uçar,Kadın,59,Operasyon,Süreç Yöneticisi,31,Yüksek Lisans,98666.0,2022-12-31,4.3,Gaziantep,fatma.uçar@firma.com,05323542681
+EMP0377,İrem Yıldız,Kadın,58,İnsan Kaynakları,İK Müdürü,32,Doktora,180116.0,2024-01-13,2.5,İstanbul,i̇rem.yıldız@firma.com,05335149916
+EMP0378,Alp Bulut,Erkek,25,İnsan Kaynakları,İK Müdürü,0,Lisans,,2022-11-18,2.6,Ankara,alp.bulut@firma.com,05382546363
+EMP0379,Mustafa Çelik,Erkek,23,IT,Sistem Yöneticisi,1,Lisans,49823.0,2024-04-04,3.7,Ankara,mustafa.çelik@firma.com,05422216316
+EMP0380,Seda Karaca,Kadın,59,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,7,Lise,65450.0,2019-04-30,2.4,İstanbul,seda.karaca@firma.com,05333950422
+EMP0381,Can Tunç,Erkek,24,İnsan Kaynakları,İşe Alım Uzmanı,1,Lisans,38254.0,2021-05-19,4.7,Ankara,can.tunç@firma.com,05451138525
+EMP0382,Hande Kaya,Kadın,51,Ar-Ge,Araştırma Uzmanı,19,Lisans,70407.0,2019-07-13,3.8,Konya,hande.kaya@firma.com,05592983595
+EMP0383,Şebnem Güneş,Kadın,57,IT,IT Müdürü,4,Yüksek Lisans,,2019-08-03,3.6,Ankara,şebnem.güneş@firma.com,05322426784
+EMP0384,Murat Aslan,Erkek,51,Operasyon,Operasyon Uzmanı,24,Lisans,88341.0,2023-10-01,2.5,İzmir,murat.aslan@firma.com,05386411714
+EMP0385,Merve Öztürk,Kadın,33,Finans,Mali Müşavir,0,Yüksek Lisans,44100.0,2024-02-27,1.9,Gaziantep,merve.öztürk@firma.com,05595098942
+EMP0386,Hatice Kılıç,Kadın,44,Ar-Ge,Ürün Geliştirme Uzmanı,18,Lisans,72533.0,2020-08-18,3.2,Ankara,hatice.kılıç@firma.com,05453081837
+EMP0387,Damla Korkmaz,Kadın,22,Operasyon,Süreç Yöneticisi,0,Lisans,35960.0,2024-07-20,3.0,İzmir,damla.korkmaz@firma.com,05495685920
+EMP0388,Ahmet Erdoğan,Erkek,53,Satış,Satış Müdürü,0,Yüksek Lisans,66972.0,2022-11-22,3.7,Antalya,ahmet.erdoğan@firma.com,05492997578
+EMP0389,Ceren Korkmaz,Kadın,33,Operasyon,Lojistik Müdürü,5,Lisans,58185.0,2019-03-22,3.3,İzmir,ceren.korkmaz@firma.com,05344009291
+EMP0390,Kaya Bayram,Erkek,23,Satış,Bölge Müdürü,0,Lisans,52299.0,2018-11-10,3.2,Ankara,kaya.bayram@firma.com,05310002061
+EMP0391,Ebru Güzel,Kadın,48,Satış,Satış Temsilcisi,24,Yüksek Lisans,94410.0,2024-02-05,2.7,Gaziantep,ebru.güzel@firma.com,05379796726
+EMP0392,Zeynep Aktaş,Kadın,25,İnsan Kaynakları,Eğitim Koordinatörü,1,Lisans,36876.0,2018-02-13,2.0,Bursa,zeynep.aktaş@firma.com,05389036577
+EMP0393,Hasan Deniz,Erkek,36,Finans,Finans Müdürü,5,Doktora,94998.0,2018-06-15,3.5,Bursa,hasan.deniz@firma.com,05561800884
+EMP0394,Mehmet Aslan,Erkek,59,Operasyon,Lojistik Müdürü,17,Lisans,106148.0,2023-02-06,1.8,İstanbul,mehmet.aslan@firma.com,05321423669
+EMP0395,Hande Koç,Kadın,51,Finans,Finans Müdürü,23,Yüksek Lisans,145985.0,2022-02-05,3.2,Ankara,hande.koç@firma.com,05577381280
+EMP0396,Burak Karaca,Erkek,35,Operasyon,Lojistik Müdürü,8,Lisans,73784.0,2023-05-29,3.2,İstanbul,burak.karaca@firma.com,05569421677
+EMP0397,Mustafa Tunç,Erkek,56,Pazarlama,Dijital Pazarlama Uzmanı,1,Lisans,36299.0,2019-10-07,4.0,Adana,mustafa.tunç@firma.com,05363528052
+EMP0398,Derya Öztürk,Kadın,23,Ar-Ge,Ar-Ge Müdürü,0,Lisans,,2020-05-13,3.6,İzmir,derya.öztürk@firma.com,05520599832
+EMP0399,Hüseyin Tunç,Erkek,52,IT,IT Müdürü,13,Ön Lisans,98814.0,2019-11-13,3.7,Antalya,hüseyin.tunç@firma.com,05396656918
+EMP0400,Kaya Özkan,Erkek,27,İnsan Kaynakları,İK Müdürü,0,Lisans,54246.0,2023-04-15,3.4,Gaziantep,kaya.özkan@firma.com,05391572345
+EMP0401,Efe Güzel,Erkek,55,Finans,Finans Analisti,7,Lisans,53764.0,2021-11-04,2.4,Gaziantep,efe.güzel@firma.com,05336959751
+EMP0402,Ahmet Kılıç,Erkek,33,Müşteri Hizmetleri,Müşteri Temsilcisi,11,Lisans,50042.0,2019-12-28,3.5,Gaziantep,ahmet.kılıç@firma.com,05320957595
+EMP0403,Mustafa Avcı,Erkek,35,Finans,Mali Müşavir,3,Yüksek Lisans,52260.0,2022-11-03,3.7,Konya,mustafa.avcı@firma.com,05498844879
+EMP0404,Büşra Avcı,Kadın,50,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,10,Yüksek Lisans,85840.0,2024-06-17,2.9,Ankara,büşra.avcı@firma.com,05528432880
+EMP0405,Okan Yıldız,Erkek,40,Pazarlama,Pazarlama Müdürü,18,Lisans,110911.0,2018-01-23,,İstanbul,okan.yıldız@firma.com,05580536866
+EMP0406,Tolga Erdoğan,Erkek,32,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,1,Ön Lisans,43754.0,2022-10-12,3.1,Antalya,tolga.erdoğan@firma.com,05440285920
+EMP0407,Burcu Kurt,Kadın,36,Müşteri Hizmetleri,Müşteri Temsilcisi,8,Lisans,42349.0,2024-04-02,3.0,Gaziantep,burcu.kurt@firma.com,05395949355
+EMP0408,Selin Deniz,Kadın,37,Operasyon,Süreç Yöneticisi,11,Lisans,56632.0,2019-07-20,3.1,Ankara,selin.deniz@firma.com,05423357529
+EMP0409,Ali Aslan,Erkek,38,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,4,Yüksek Lisans,67060.0,2024-11-20,4.2,İstanbul,ali.aslan@firma.com,05386295563
+EMP0410,Tunç Özdemir,Erkek,59,Ar-Ge,Ar-Ge Müdürü,35,Lisans,180989.0,2018-09-20,2.5,Antalya,tunç.özdemir@firma.com,05419061995
+EMP0411,Özge Karaca,Kadın,56,Pazarlama,Pazarlama Uzmanı,6,Doktora,,2019-12-19,3.2,Gaziantep,özge.karaca@firma.com,05535671325
+EMP0412,Merve Demir,Kadın,26,Satış,Satış Müdürü,1,Lisans,53018.0,2022-01-13,2.7,Bursa,merve.demir@firma.com,05300154227
+EMP0413,Ebru Karaca,Kadın,59,Operasyon,Süreç Yöneticisi,14,Lisans,,2024-07-28,3.8,Bursa,ebru.karaca@firma.com,05577960996
+EMP0414,Deniz Özkan,Erkek,34,Operasyon,Lojistik Müdürü,4,Doktora,86015.0,2021-02-06,2.7,Bursa,deniz.özkan@firma.com,05404434919
+EMP0415,Yusuf Doğan,Erkek,42,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,20,Ön Lisans,74221.0,2018-10-24,3.5,Antalya,yusuf.doğan@firma.com,05482517799
+EMP0416,Nil Bayram,Kadın,56,Pazarlama,Pazarlama Müdürü,10,Doktora,104580.0,2024-04-25,3.9,Gaziantep,nil.bayram@firma.com,05430606335
+EMP0417,Şebnem Aktaş,Kadın,47,IT,DevOps Mühendisi,3,Ön Lisans,51407.0,2018-10-04,4.3,Konya,şebnem.aktaş@firma.com,05418316859
+EMP0418,Gizem Aksoy,Kadın,50,IT,Veri Analisti,19,Lisans,84643.0,2019-01-16,3.9,Konya,gizem.aksoy@firma.com,05483606030
+EMP0419,Naz Aksoy,Kadın,34,Satış,Bölge Müdürü,0,Ön Lisans,61129.0,2020-02-18,4.3,Gaziantep,naz.aksoy@firma.com,05407195159
+EMP0420,Merve Çetin,Kadın,50,Satış,Satış Müdürü,0,Yüksek Lisans,64631.0,2021-12-29,2.7,İzmir,merve.çetin@firma.com,05357278379
+EMP0421,Burcu Yılmaz,Kadın,42,IT,DevOps Mühendisi,10,Lisans,61751.0,2021-07-15,2.4,Gaziantep,burcu.yılmaz@firma.com,05447496175
+EMP0422,Ece Çetin,Kadın,38,Finans,Mali Müşavir,12,Lisans,,2022-09-30,3.3,Gaziantep,ece.çetin@firma.com,05590322582
+EMP0423,Barış Öztürk,Erkek,22,Ar-Ge,Ürün Geliştirme Uzmanı,0,Lisans,41523.0,2018-02-18,4.1,Bursa,barış.öztürk@firma.com,05503703857
+EMP0424,Elif Özer,Kadın,45,Pazarlama,Dijital Pazarlama Uzmanı,2,Lisans,36870.0,2024-11-16,4.4,Adana,elif.özer@firma.com,05496454033
+EMP0425,Tuğba Güneş,Kadın,42,Operasyon,Lojistik Müdürü,7,Lisans,67327.0,2020-01-07,4.3,İzmir,tuğba.güneş@firma.com,05422710838
+EMP0426,Deniz Bulut,Erkek,28,Müşteri Hizmetleri,Müşteri Temsilcisi,2,Ön Lisans,31859.0,2019-09-05,3.0,Gaziantep,deniz.bulut@firma.com,05305230355
+EMP0427,Gamze Çakır,Kadın,26,Pazarlama,Marka Müdürü,4,Lisans,68350.0,2024-05-14,4.2,İstanbul,gamze.çakır@firma.com,05513890395
+EMP0428,Tunç Koç,Erkek,46,Ar-Ge,Ar-Ge Müdürü,8,Lise,84945.0,2021-10-02,3.0,Antalya,tunç.koç@firma.com,05493790010
+EMP0429,Defne Kaya,Kadın,24,Müşteri Hizmetleri,Müşteri Temsilcisi,0,Ön Lisans,26844.0,2024-10-16,4.2,Bursa,defne.kaya@firma.com,05589071837
+EMP0430,Naz Tunç,Kadın,31,Ar-Ge,Ar-Ge Müdürü,4,Lisans,66460.0,2018-11-18,3.5,Konya,naz.tunç@firma.com,05453826173
+EMP0431,Kemal Polat,Erkek,23,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,1,Lisans,31910.0,2022-07-16,3.5,Ankara,kemal.polat@firma.com,05342472893
+EMP0432,Seda Özkan,Kadın,53,Pazarlama,Pazarlama Müdürü,27,Lisans,117400.0,2022-12-28,4.1,Adana,seda.özkan@firma.com,05579675218
+EMP0433,Alp Kaya,Erkek,38,Finans,Muhasebeci,7,Yüksek Lisans,63323.0,2018-11-24,3.3,Bursa,alp.kaya@firma.com,05389609375
+EMP0434,Aslı Şahin,Kadın,35,IT,DevOps Mühendisi,11,Lisans,61124.0,2018-12-07,3.0,Ankara,aslı.şahin@firma.com,05440902987
+EMP0435,Selin Çetin,Kadın,51,Satış,Bölge Müdürü,19,Lisans,98604.0,2019-06-02,,İzmir,selin.çetin@firma.com,05582792636
+EMP0436,Melis Erdoğan,Kadın,56,Ar-Ge,Ürün Geliştirme Uzmanı,31,Doktora,124029.0,2024-01-24,4.1,Antalya,melis.erdoğan@firma.com,05594498001
+EMP0437,Oğuz Taş,Erkek,33,Ar-Ge,Ar-Ge Müdürü,8,Yüksek Lisans,100930.0,2024-04-29,2.6,Konya,oğuz.taş@firma.com,05581030342
+EMP0438,Damla Bayram,Kadın,29,Satış,Satış Temsilcisi,5,Lisans,49295.0,2022-02-07,,Konya,damla.bayram@firma.com,05439482844
+EMP0439,Can Özkan,Erkek,53,Ar-Ge,Ar-Ge Müdürü,10,Lise,,2023-07-08,2.9,Gaziantep,can.özkan@firma.com,05460852172
+EMP0440,Burcu Çetin,Kadın,49,IT,IT Müdürü,12,Lisans,89853.0,2022-08-14,4.1,Konya,burcu.çetin@firma.com,05511930908
+EMP0441,Hande Türk,Kadın,36,Satış,Bölge Müdürü,3,Lise,65777.0,2020-09-08,4.4,Antalya,hande.türk@firma.com,05452834720
+EMP0442,Gizem Kılıç,Kadın,34,İnsan Kaynakları,İK Müdürü,5,Ön Lisans,65839.0,2019-03-29,3.5,Gaziantep,gizem.kılıç@firma.com,05543077558
+EMP0443,Emre Kaya,Erkek,24,Finans,Mali Müşavir,2,Yüksek Lisans,46612.0,2018-04-01,4.2,İzmir,emre.kaya@firma.com,05354907660
+EMP0444,Derya Yılmaz,Kadın,58,Satış,Satış Temsilcisi,7,Lisans,47510.0,2023-07-15,3.6,Bursa,derya.yılmaz@firma.com,05483563067
+EMP0445,Defne Aktaş,Kadın,22,IT,Veri Analisti,0,Lise,46727.0,2019-08-22,2.9,İstanbul,defne.aktaş@firma.com,05443078017
+EMP0446,Elif Kılıç,Kadın,55,Pazarlama,Pazarlama Müdürü,24,Yüksek Lisans,145074.0,2019-05-15,3.1,Bursa,elif.kılıç@firma.com,05506586796
+EMP0447,İbrahim Aktaş,Erkek,48,İnsan Kaynakları,İK Müdürü,26,Lisans,135403.0,2021-07-02,4.0,Adana,i̇brahim.aktaş@firma.com,05385153866
+EMP0448,Yusuf Avcı,Erkek,57,Pazarlama,Dijital Pazarlama Uzmanı,21,Lisans,84499.0,2018-08-02,2.0,Bursa,yusuf.avcı@firma.com,05360628005
+EMP0449,Hasan Kurt,Erkek,33,İnsan Kaynakları,Eğitim Koordinatörü,0,Yüksek Lisans,36313.0,2018-02-06,4.1,İstanbul,hasan.kurt@firma.com,05555159002
+EMP0450,Ömer Arslan,Erkek,41,Ar-Ge,Araştırma Uzmanı,10,Yüksek Lisans,74954.0,2021-10-18,4.1,İstanbul,ömer.arslan@firma.com,05332091528
+EMP0451,Hüseyin Çakır,Erkek,52,Satış,Bölge Müdürü,22,Doktora,,2021-11-23,2.8,Gaziantep,hüseyin.çakır@firma.com,05403597458
+EMP0452,Yusuf Demir,Erkek,25,Ar-Ge,Ar-Ge Müdürü,3,Lisans,76037.0,2021-04-22,3.5,Gaziantep,yusuf.demir@firma.com,05401885124
+EMP0453,Derya Aktaş,Kadın,56,Pazarlama,Dijital Pazarlama Uzmanı,25,Lise,81112.0,2019-09-27,2.4,Gaziantep,derya.aktaş@firma.com,05458738048
+EMP0454,Fatma Tunç,Kadın,41,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,16,Lisans,60473.0,2018-03-18,4.4,Adana,fatma.tunç@firma.com,05428197557
+EMP0455,Merve Uçar,Kadın,35,Ar-Ge,Ar-Ge Müdürü,2,Lisans,60877.0,2021-03-05,4.8,Adana,merve.uçar@firma.com,05520012130
+EMP0456,Mehmet Aydın,Erkek,45,Finans,Mali Müşavir,1,Lisans,,2023-06-12,4.8,Bursa,mehmet.aydın@firma.com,05353017928
+EMP0457,Şebnem Çakır,Kadın,40,Pazarlama,Pazarlama Uzmanı,18,Lisans,67585.0,2024-10-17,3.4,Ankara,şebnem.çakır@firma.com,05307025549
+EMP0458,Özge Yıldız,Kadın,51,Ar-Ge,Ar-Ge Müdürü,25,Lise,141300.0,2024-04-04,3.2,Konya,özge.yıldız@firma.com,05498142220
+EMP0459,İrem Demir,Kadın,40,İnsan Kaynakları,İşe Alım Uzmanı,15,Lise,58906.0,2020-06-03,2.9,Ankara,i̇rem.demir@firma.com,05354344820
+EMP0460,İbrahim Uçar,Erkek,49,Satış,Satış Müdürü,26,Yüksek Lisans,163527.0,2024-04-05,4.0,Konya,i̇brahim.uçar@firma.com,05356647492
+EMP0461,Tuğba Bulut,Kadın,54,İnsan Kaynakları,İK Müdürü,16,Yüksek Lisans,113967.0,2024-03-02,3.9,Konya,tuğba.bulut@firma.com,05570954875
+EMP0462,Özge Aksoy,Kadın,35,Operasyon,Süreç Yöneticisi,11,Doktora,67210.0,2021-08-22,2.8,Adana,özge.aksoy@firma.com,05521375117
+EMP0463,Burcu Kara,Kadın,37,Satış,Satış Danışmanı,4,Yüksek Lisans,47032.0,2020-11-06,3.6,Adana,burcu.kara@firma.com,05542882264
+EMP0464,Murat Taş,Erkek,40,IT,IT Müdürü,9,Ön Lisans,101166.0,2021-05-21,2.3,İstanbul,murat.taş@firma.com,05461240564
+EMP0465,Fatma Kurt,Kadın,47,Finans,Mali Müşavir,18,Lise,70936.0,2021-12-27,1.6,İzmir,fatma.kurt@firma.com,05374307334
+EMP0466,Ömer Koç,Erkek,26,Pazarlama,Pazarlama Uzmanı,3,Lisans,39847.0,2024-05-19,2.9,Bursa,ömer.koç@firma.com,05341447275
+EMP0467,Kaan Deniz,Erkek,25,İnsan Kaynakları,İşe Alım Uzmanı,1,Lise,38686.0,2024-06-18,1.5,Konya,kaan.deniz@firma.com,05342132229
+EMP0468,Defne Bulut,Kadın,57,Müşteri Hizmetleri,Müşteri Temsilcisi,5,Yüksek Lisans,39327.0,2020-07-17,3.4,İstanbul,defne.bulut@firma.com,05505346124
+EMP0469,Aslı Deniz,Kadın,52,Finans,Finans Analisti,19,Lisans,80168.0,2020-06-23,2.8,İzmir,aslı.deniz@firma.com,05327122616
+EMP0470,Ebru Taş,Kadın,56,İnsan Kaynakları,İK Müdürü,27,Lisans,140881.0,2022-06-04,2.9,İzmir,ebru.taş@firma.com,05370968454
+EMP0471,Deniz Karaca,Erkek,37,Pazarlama,Pazarlama Uzmanı,5,Lisans,46331.0,2022-11-15,3.2,İzmir,deniz.karaca@firma.com,05372408191
+EMP0472,Seda Deniz,Kadın,30,Satış,Satış Müdürü,3,Lisans,55355.0,2020-12-26,4.0,Konya,seda.deniz@firma.com,05473630300
+EMP0473,Onur Akın,Erkek,42,Müşteri Hizmetleri,Müşteri Hizmetleri Müdürü,3,Lisans,52004.0,2021-08-06,3.4,Adana,onur.akın@firma.com,05312995942
+EMP0474,Burcu Korkmaz,Kadın,36,Finans,Finans Müdürü,1,Lise,63545.0,2020-08-14,3.6,Bursa,burcu.korkmaz@firma.com,05500693511
+EMP0475,Ali Şahin,Erkek,45,Satış,Satış Müdürü,14,Yüksek Lisans,122551.0,2021-03-24,4.3,İstanbul,ali.şahin@firma.com,05484292414
+EMP0476,Damla Kaya,Kadın,35,Operasyon,Operasyon Uzmanı,8,Yüksek Lisans,58489.0,2020-05-17,3.2,Bursa,damla.kaya@firma.com,05593359266
+EMP0477,Burcu Özdemir,Kadın,26,IT,DevOps Mühendisi,2,Lisans,47892.0,2023-11-28,2.6,İstanbul,burcu.özdemir@firma.com,05437147081
+EMP0478,Ayşe Aktaş,Kadın,42,IT,Yazılım Geliştirici,11,Lisans,,2021-01-16,2.7,Adana,ayşe.aktaş@firma.com,05357923775
+EMP0479,Büşra Türk,Kadın,25,İnsan Kaynakları,İşe Alım Uzmanı,2,Lisans,36614.0,2024-09-11,4.2,Ankara,büşra.türk@firma.com,05400082073
+EMP0480,Mehmet Kara,Erkek,55,Pazarlama,Marka Müdürü,27,Lisans,142582.0,2019-10-06,5.0,İstanbul,mehmet.kara@firma.com,05486176043
+EMP0481,Büşra Tunç,Kadın,43,Pazarlama,Pazarlama Uzmanı,16,Yüksek Lisans,74160.0,2022-05-05,2.7,İstanbul,büşra.tunç@firma.com,05597930793
+EMP0482,Nil Karaca,Kadın,42,Finans,Mali Müşavir,4,Yüksek Lisans,59398.0,2023-11-03,1.5,Bursa,nil.karaca@firma.com,05524054129
+EMP0483,Özge Taş,Kadın,23,Operasyon,Lojistik Müdürü,1,Lisans,52488.0,2020-04-26,3.9,İzmir,özge.taş@firma.com,05590637122
+EMP0484,Murat Uçar,Erkek,45,Finans,Finans Müdürü,14,Doktora,127818.0,2019-08-18,4.9,İzmir,murat.uçar@firma.com,05470454480
+EMP0485,Hasan Erdoğan,Erkek,31,Finans,Mali Müşavir,2,Yüksek Lisans,46065.0,2022-08-23,3.1,Konya,hasan.erdoğan@firma.com,05462858774
+EMP0486,Zeynep Kılıç,Kadın,28,İnsan Kaynakları,İK Müdürü,4,Ön Lisans,56949.0,2024-11-11,3.9,Antalya,zeynep.kılıç@firma.com,05423969584
+EMP0487,Can Yıldız,Erkek,43,Ar-Ge,Araştırma Uzmanı,14,Lisans,65868.0,2024-10-12,3.2,Gaziantep,can.yıldız@firma.com,05500767924
+EMP0488,Zeynep Arslan,Kadın,49,Satış,Satış Müdürü,25,Lise,128749.0,2018-03-03,3.9,Antalya,zeynep.arslan@firma.com,05521751323
+EMP0489,Berkay Aslan,Erkek,24,İnsan Kaynakları,İK Müdürü,0,Yüksek Lisans,59055.0,2022-12-05,3.1,Gaziantep,berkay.aslan@firma.com,05474427008
+EMP0490,Ece Demir,Kadın,44,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,17,Lisans,56166.0,2024-11-09,4.3,İstanbul,ece.demir@firma.com,05579521354
+EMP0491,Kaya Kara,Erkek,32,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,7,Lise,41243.0,2022-05-06,3.3,İstanbul,kaya.kara@firma.com,05401925127
+EMP0492,Ebru Özkan,Kadın,57,Ar-Ge,Araştırma Uzmanı,20,Lisans,76665.0,2024-11-16,3.0,İstanbul,ebru.özkan@firma.com,05577545966
+EMP0493,Emine Tunç,Kadın,36,İnsan Kaynakları,İK Müdürü,13,Yüksek Lisans,98784.0,2024-02-17,4.2,İzmir,emine.tunç@firma.com,05511026087
+EMP0494,Barış Güzel,Erkek,28,Satış,Satış Danışmanı,2,Lise,40850.0,2021-08-20,4.0,İzmir,barış.güzel@firma.com,05366327296
+EMP0495,Emine Uçar,Kadın,48,Müşteri Hizmetleri,Çağrı Merkezi Uzmanı,17,Yüksek Lisans,66014.0,2023-09-27,3.2,İzmir,emine.uçar@firma.com,05503301541
+EMP0496,Okan Polat,Erkek,29,Finans,Muhasebeci,4,Yüksek Lisans,57768.0,2020-01-03,3.6,İstanbul,okan.polat@firma.com,05525261205
+EMP0497,Selin Doğan,Kadın,58,İnsan Kaynakları,İK Müdürü,3,Doktora,81254.0,2018-01-15,2.9,Antalya,selin.doğan@firma.com,05306553993
+EMP0498,Serkan Çakır,Erkek,22,Satış,Satış Müdürü,0,Lisans,56062.0,2023-05-03,4.3,Gaziantep,serkan.çakır@firma.com,05520198338
+EMP0499,Ömer Özer,Erkek,42,Pazarlama,Dijital Pazarlama Uzmanı,12,Lise,,2019-08-31,2.9,İstanbul,ömer.özer@firma.com,05487378596
+EMP0500,Naz Yıldız,Kadın,26,IT,Yazılım Geliştirici,0,Lisans,38127.0,2020-01-01,3.8,İzmir,naz.yıldız@firma.com,05452675640
